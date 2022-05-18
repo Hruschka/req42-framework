@@ -1,9 +1,9 @@
-// header file for arc42-template,
+// header file for req42-framework,
 // including all help texts
 //
 // ====================================
 
-= image:arc42-logo.png[arc42] Template
+= image:arc42-logo.png[req42] Framework
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Inhaltsverzeichnis
 
@@ -35,8 +35,8 @@ include::src/about-arc42.adoc[]
 ****
 [NOTE]
 ====
-Diese Version des Templates enthält Hilfen und Erläuterungen.
-Sie dient der Einarbeitung in arc42 sowie dem Verständnis der Konzepte.
+Diese Version des Frameworks enthält Hilfen und Erläuterungen.
+Sie dient der Einarbeitung in req42 sowie dem Verständnis der Konzepte.
 Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
 ====
 ****
@@ -46,16 +46,13 @@ Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
 :numbered:
 
 <<<<
-// 1. Anforderungen und Ziele
-include::src/01_introduction_and_goals.adoc[]
+include::src/01_business-goals[]
 
 <<<<
-// 2. Randbedingungen
-include::src/02_architecture_constraints.adoc[]
+include::src/02_assets.adoc[]
 
 <<<<
-// 3. Kontextabgrenzung
-include::src/03_system_scope_and_context.adoc[]
+include::src/03_stakeholder.adoc[]
 
 <<<<
 // 4. Lösungsstrategie
