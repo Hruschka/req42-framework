@@ -1,4 +1,4 @@
-// asciidoc settings for EN (English)
+// asciidoc settings for DE (German)
 // ==================================
 :toc-title: table of contents
 
