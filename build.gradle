@@ -10,23 +10,22 @@ apply plugin: 'java'
 
 // what language are we building
 // current choices: EN, DE, IT, ES
-def LANGUAGE = 'EN'
+def LANGUAGE = 'DE'
 
 // what version of the template are we building here
-version = "8.0.0-${LANGUAGE}-LOCAL-BUILD"
+version = "1.0.0-${LANGUAGE}-LOCAL-BUILD"
 
 repositories {
     mavenCentral()
 }
 
-// not found: /Users/gernotstarke/projects/arc42/arc42-template/src/config.adoc
 
 asciidoctor {
     baseDir file('./')
     baseDirFollowsSourceDir()
 
     sourceDir file("${LANGUAGE}/asciidoc")
-    sources{ include 'arc42-template.adoc' }
+    sources{ include 'req42-framework.adoc' }
    
     options = [
         includedir: "./${LANGUAGE}/asciidoc/",

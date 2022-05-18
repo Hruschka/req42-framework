@@ -26,7 +26,7 @@ endif::backend-html5[]
 include::src/config.adoc[]
 
 
-include::src/about-arc42.adoc[]
+include::src/about-req42.adoc[]
 
 // horizontal line
 ***
@@ -46,7 +46,7 @@ Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
 :numbered:
 
 <<<<
-include::src/01_business-goals[]
+include::src/01_business-goals.adoc[]
 
 <<<<
 include::src/02_assets.adoc[]
@@ -55,37 +55,28 @@ include::src/02_assets.adoc[]
 include::src/03_stakeholder.adoc[]
 
 <<<<
-// 4. Lösungsstrategie
-include::src/04_solution_strategy.adoc[]
+include::src/04_business-scope.adoc[]
 
 <<<<
-// 5. Bausteinsicht
-include::src/05_building_block_view.adoc[]
+include::src/05_product-backlog.adoc[]
 
 <<<<
-// 6. Laufzeitsicht
-include::src/06_runtime_view.adoc[]
+include::src/06_domain-terminology.adoc[]
 
 <<<<
-// 7. Verteilungssicht
-include::src/07_deployment_view.adoc[]
+include::src/07_supporting-models.adoc[]
 
 <<<<
-// 8. Querschnittliche Konzepte
-include::src/08_concepts.adoc[]
+include::src/08_quality-requirements.adoc[]
 
 <<<<
-// 9. Entscheidungen
-include::src/09_architecture_decisions.adoc[]
+include::src/09_organizational-constraints.adoc[]
 
 <<<<
-// 10. Qualitätsanforderungen
-include::src/10_quality_requirements.adoc[]
+include::src/10_roadmaps.adoc[]
 
 <<<<
-// 11. Risiken
-include::src/11_technical_risks.adoc[]
+include::src/11_risks-assumptions.adoc[]
 
 <<<<
-// 12. Glossar
-include::src/12_glossary.adoc[]
+include::src/12_teams.adoc[]
