@@ -1,4 +1,4 @@
-[[section-introduction-and-goals]]
+[[section-business-goals]]
 ==	Einführung und Ziele
 
 [role="arc42help"]
