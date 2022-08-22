@@ -11,7 +11,7 @@ Scope ist der Bereich, den Sie beeinflussen können. Die Umgebung des Produktes,
 req42 empfiehlt Ihnen mit dem Business-Scope zu beginnen und nicht zu früh den Product-Scope einzuschränken. Die Entscheidung über die Produktgrenze sollte eine bewusste Entscheidung sein.
 Mehr über dieses unverzichtbare Thema lesen Sie im Blog-Beitrag „Scope ist nicht gleich Scope“ oder in [2]. In unseren Kursen üben Sie die Scope-Abgrenzung anhand einer realistischen Fallstudie.
 
-.Form
+.Notationen/Tools
 Zur Darstellung der Scope-Abgrenzung gibt es viele verschiedene Ausdrucksmittel, aber eine gute Scope-Abgrenzung macht die Schnittstellen zum Kontext explizit (z.B. in Form von Ein- und Ausgaben, von angebotenen und benötigten Services, ...)
 * Diverse Formen von Kontextdiagrammen 
 * Kontexttabelle

@@ -1,57 +1,51 @@
-[[section-building-block-view]]
-== Bausteinsicht
+[[section-Product-Backlog]]
+== Product Backlog
 
-[role="arc42help"]
+[role="req42help"]
 ****
 .Inhalt
-Die Bausteinsicht zeigt die statische Zerlegung des Systems in Bausteine (Module, Komponenten, Subsysteme, Klassen, Schnittstellen, Pakete, Bibliotheken, Frameworks, Schichten, Partitionen, Tiers, Funktionen, Makros, Operationen, Datenstrukturen, ...) sowie deren Abhängigkeiten (Beziehungen, Assoziationen, ...)
-
-
-Diese Sicht sollte in jeder Architekturdokumentation vorhanden sein.
-In der Analogie zum Hausbau bildet die Bausteinsicht den _Grundrissplan_.
+Eine geordnete Liste von Product Backlog Items (auf verschiedenem Granularitätsstufen: z.B. Epics, Features und User Storys.) Backlog-Items sollen untereinander priorisiert (besserer Ausdruck: geranked) sein. Die Items mit dem größten Mehrwert bezogen auf den Umsetzungsaufwand sollten sich entsprechend oben im Backlog wiederfinden, um als nächstes umgesetzt zu werden. Was Mehrwert für Sie und Ihre Entwicklung bedeutet müssen Sie explizit festlegen. Die einfachste Ausprägung ist der Business Mehrwert für den Kunden bei Umsetzung der Anforderung.
 
 .Motivation
-Behalten Sie den Überblick über den Quellcode, indem Sie die statische Struktur des Systems durch Abstraktion verständlich machen.
+Der Scrum Guide [1] definiert: „Das Product Backlog ist eine geordnete Liste von allem, von dem bekannt ist, dass es im Produkt enthalten sein soll. Es dient die einzige Anforderungsquelle für alle Änderungen am Produkt. Der Product Owner ist für das Product Backlog, seine Inhalte, den Zugriff darauf und die Reihenfolge der Einträge verantwortlich.
+Ein Product Backlog ist niemals vollständig. Während seiner ersten Entwicklungsschritte zeigt es die anfangs bekannten und am besten verstandenen Anforderungen auf. Das Product Backlog entwickelt sich mit dem Produkt und dessen Einsatz weiter. Es ist dynamisch; es passt sich konstant an, um für das Produkt klar herauszustellen, was es braucht, um seiner Aufgabe angemessen zu sein, im Wettbewerb zu bestehen und den erforderlichen Nutzen zu bieten.“ 
+Solange ein Produkt existiert, existiert auch sein Product Backlog.
+Sie sehen also: das Product Backlog ist wirklich wichtig für die erfolgreiche Arbeit als Product Owner. Aber bitte füllen sie auch die anderen Artefakt. Ihr Job fängt vielleicht nicht mit dem Product Backlog an und hört sicherlich nicht mit dem Product Backlog auf.
 
-Damit ermöglichen Sie Kommunikation auf abstrakterer Ebene, ohne zu viele Implementierungsdetails offenlegen zu müssen.
-
-.Form
-Die Bausteinsicht ist eine hierarchische Sammlung von Blackboxen und Whiteboxen (siehe Abbildung unten) und deren Beschreibungen.
-
-image::05_building_blocks-DE.png["Hierarchie in der Bausteinsicht"]
-
-*Ebene 1* ist die Whitebox-Beschreibung des Gesamtsystems, zusammen mit Blackbox-Beschreibungen der darin enthaltenen Bausteine.
-
-*Ebene 2* zoomt in einige Bausteine der Ebene 1 hinein.
-Sie enthält somit die Whitebox-Beschreibungen ausgewählter Bausteine der Ebene 1, jeweils zusammen mit Blackbox-Beschreibungen darin enthaltener Bausteine.
-
-*Ebene 3* zoomt in einige Bausteine der Ebene 2 hinein, usw.
-
+.Notationen/Tools
+Bewährt hat sich (unabhängig von der Granularität) für Epics, Features und User-Storys die Formel:
+Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>>.
+Für die abstrakteren Ebenen (Epics, Features) eignen sich unter Umständen auch zusammengesetzte Substantive zum Beschreiben der Funktionalität.
+Nutzen Sie ALM Tools bzw. Ticket-Systeme (JIRA oder Azure DevOps) oder Wikis (wie Confluence), um Ihre Epics, Features und Storys (verlinkt und geordnet) zu verwalten.
+Besonders bewährt hat sich eine zweidimensionale Darstellung des Product Backlogs in Form einer Story-Map.
 
 .Weiterführende Informationen
 
 Siehe https://docs.arc42.org/section-5/[Bausteinsicht] in der online-Dokumentation (auf Englisch!).
 ****
 
-=== Whitebox Gesamtsystem
 
-[role="arc42help"]
-****
-An dieser Stelle beschreiben Sie die Zerlegung des Gesamtsystems anhand des nachfolgenden Whitebox-Templates.
-Dieses enthält:
 
-* Ein Übersichtsdiagramm
-* die Begründung dieser Zerlegung
-* Blackbox-Beschreibungen der hier enthaltenen Bausteine.
-Dafür haben Sie verschiedene Optionen:
+EPIC 1:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
 
-** in _einer_ Tabelle, gibt einen kurzen und pragmatischen Überblick über die enthaltenen Bausteine sowie deren Schnittstellen.
-** als Liste von Blackbox-Beschreibungen der Bausteine, gemäß dem Blackbox-Template (siehe unten).
-Diese Liste können Sie, je nach Werkzeug, etwa in Form von Unterkapiteln (Text), Unter-Seiten (Wiki) oder geschachtelten Elementen (Modellierungswerkzeug) darstellen.
+FEATURE  1.1:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
 
-* (optional:) wichtige Schnittstellen, die nicht bereits im Blackbox-Template eines der Bausteine erläutert werden, aber für das Verständnis der Whitebox von zentraler Bedeutung sind.
-Aufgrund der vielfältigen Möglichkeiten oder Ausprägungen von Schnittstellen geben wir hierzu kein weiteres Template vor.
-Im schlimmsten Fall müssen Sie Syntax, Semantik, Protokolle, Fehlerverhalten, Restriktionen, Versionen, Qualitätseigenschaften, notwendige Kompatibilitäten und vieles mehr spezifizieren oder beschreiben.
-Im besten Fall kommen Sie mit Beispielen oder einfachen Signaturen zurecht.
-****
+STORY 1.1.1.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
 
+STORY 1.1.x.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+EPIC 2:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+FEATURE  2.1:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+STORY 2.1.1.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+STORY 2.1.2: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+FEATURE  2.2:   Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+STORY 2.2.1.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+STORY 2.2.2: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+
+EPIC 3:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
