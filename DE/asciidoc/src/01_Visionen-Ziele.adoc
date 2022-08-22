@@ -1,4 +1,4 @@
-[[section-business-goals]]
+[[section-Visionen-Ziele]]
 ==	Visionen und Ziele
 
 [role="req42help"]
@@ -28,6 +28,7 @@ Siehe https://docs.arc42.org/section-1/[Anforderungen und Ziele] in der online-D
 ****
 
 Zieldefinitionen nach PAM:
+
 Ziel 1:
 Vorteil 1:
 Metrik 1: 

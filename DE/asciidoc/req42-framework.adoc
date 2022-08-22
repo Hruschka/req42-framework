@@ -46,37 +46,37 @@ Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
 :numbered:
 
 <<<<
-include::src/01_business-goals.adoc[]
+include::src/01_Visionen-Ziele.adoc[]
 
 <<<<
-include::src/02_assets.adoc[]
+include::src/02_Stakeholder.adoc[]
 
 <<<<
-include::src/03_stakeholder.adoc[]
+include::src/03_Scope-Abgrenzung.adoc[]
 
 <<<<
-include::src/04_business-scope.adoc[]
+include::src/04_Product-Backlog.adoc[]
 
 <<<<
-include::src/05_product-backlog.adoc[]
+include::src/05_Modelle-zur-Unterstuetzung.adoc[]
 
 <<<<
-include::src/06_domain-terminology.adoc[]
+include::src/06_Qualitaetsanforderungen.adoc[]
 
 <<<<
-include::src/07_supporting-models.adoc[]
+include::src/07_Randbedingungen.adoc[]
 
 <<<<
-include::src/08_quality-requirements.adoc[]
+include::src/08_Domaenenbegriffe.adoc[]
 
 <<<<
-include::src/09_organizational-constraints.adoc[]
+include::src/09_Betriebsmittel-und-Personal.adoc[]
 
 <<<<
-include::src/10_roadmaps.adoc[]
+include::src/10_Teamstruktur.adoc[]
 
 <<<<
-include::src/11_risks-assumptions.adoc[]
+include::src/11_Roadmaps.adoc[]
 
 <<<<
-include::src/12_teams.adoc[]
+include::src/12_Risiken-und-Annahmen.adoc[]
