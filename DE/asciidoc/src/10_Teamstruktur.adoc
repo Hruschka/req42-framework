@@ -29,7 +29,9 @@ Siehe https://docs.arc42.org/section-12/[Glossar] in der online-Dokumentation (a
 |Team |Team-Mitglied |Themen
 |<<Team-1>> |PO: <<Name>> | <<Teilprodukt-A>>
 |           |<<Team-Member-1>>  |  
-|           |<<Team-Member-2>>  |      
-|  <<Team-2>> | PO: <<Name>> | <<Teilprodukt-B  
-
+|           |                   |      
+|  <<Team-2>> | PO: <<Name>> | <<Teilprodukt-B>> 
+|           |<<Team-Member-1>>  |  
+|           |<<Team-Member-2>>  |
+|           |                   |   
 |===
