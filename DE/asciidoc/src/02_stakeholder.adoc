@@ -23,10 +23,9 @@ Siehe https://docs.arc42.org/section-3/[Kontextabgrenzung] in der online-Dokumen
 
 ****
 
-
-
-**<Diagramm oder Tabelle>**
-
-**<optional: Erläuterung der externen technischen Schnittstellen>**
-
-**<Mapping fachliche auf technische Schnittstellen>**
+[cols="1,1,2,2" options="header"]
+|===
+|Rolle |Person |Thema |Einfluss
+| _<Rolle-1>_ | _<Person-1>_ | _<Thema-1>_ | _<Einfluss-1>_
+| _<Rolle-2>_ | _<Person-2>_ | _<Thema-2>_ | _<Einfluss-2>_
+|===
