@@ -1,26 +1,10 @@
 [[section-business-goals]]
-==	Einführung und Ziele
+==	Visionen und Ziele
 
-[role="arc42help"]
-****
-Beschreibt die wesentlichen Anforderungen und treibenden Kräfte, die bei der Umsetzung der Softwarearchitektur und Entwicklung des Systems berücksichtigt werden müssen.
-
-Dazu gehören:
-
-* zugrunde liegende Geschäftsziele,
-* wesentliche Aufgabenstellungen,
-* wesentliche funktionale Anforderungen,
-* Qualitätsziele für die Architektur und
-* relevante Stakeholder und deren Erwartungshaltung.
-****
-
-=== Aufgabenstellung
-
-[role="arc42help"]
+[role="req42help"]
 ****
 .Inhalt
-Kurzbeschreibung der fachlichen Aufgabenstellung, treibenden Kräfte, Extrakt (oder Abstract) der Anforderungen.
-Verweis auf (hoffentlich vorliegende) Anforderungsdokumente (mit Versionsbezeichnungen und Ablageorten).
+Die Business-Ziele Ihrer Produktentwicklung bzw. Ihres Projekts. Stakeholder-verständlich und transparent.
 
 .Motivation
 Aus Sicht der späteren Nutzung ist die Unterstützung einer fachlichen Aufgabe oder Verbesserung der Qualität der eigentliche Beweggrund, ein neues System zu schaffen oder ein bestehendes zu modifizieren.
