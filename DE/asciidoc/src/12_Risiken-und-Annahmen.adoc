@@ -1,19 +1,17 @@
-[[section-technical-risks]]
-== Risiken und technische Schulden
+[[section-Risiken-und-Annahmen]]
+== Risiken und Annahmen
 
-[role="arc42help"]
+[role="req42help"]
 ****
 .Inhalt
-Eine nach Prioritäten geordnete Liste der erkannten Architekturrisiken und/oder technischen Schulden.
+(Priorisierte) Listen von Risiken, die Sie erkannt haben und eine Liste von Annahmen, die Sie als Grundlage für Entscheidungen getroffen haben.
 
 .Motivation
-"Risikomanagement ist Projektmanagement für Erwachsene."
--- Tim Lister, Atlantic Systems Guild
+„Risikomanagement ist Projektmanagement für Erwachsene“  sagt Tim Lister von der Atlantic Systems Guild“.  In diesem Sinne sollten Sie Ihre Risiken als Product Owner im Griff halten.
+req42 gibt Ihnen die Mittel an die Hand, Risiken bewusst zu managen. Insbesondere beim Priorisierung Ihrer Anforderungen sollten Sie ausgewogen zwischen Business Value und Risk Reduction abwägen.
 
-Unter diesem Motto sollten Sie Architekturrisiken und/oder technische Schulden gezielt ermitteln, bewerten und Ihren Management-Stakeholdern (z.B. Projektleitung, Product-Owner) transparent machen.
-
-.Form
-Liste oder Tabelle von Risiken und/oder technischen Schulden, eventuell mit vorgeschlagenen Maßnahmen zur Risikovermeidung, Risikominimierung oder dem Abbau der technischen Schulden.
+.Notationen/Tools
+Einfache Tabellen oder Listen reichen oft bereits aus.
 
 
 .Weiterführende Informationen
@@ -21,3 +19,18 @@ Liste oder Tabelle von Risiken und/oder technischen Schulden, eventuell mit vorg
 Siehe https://docs.arc42.org/section-11/[Risiken und technische Schulden] in der online-Dokumentation (auf Englisch!).
 ****
 
+=== 12.1. Risiken
+[cols="1,3,1,1,3" options="header"]
+|===
+|Nr. |Text |Wahrscheinlichkeit |Schadenshöhe | Evtl. Maßnahmen
+| _<1>_ | _<Risiko-1>_ | _<%-1>_ | _<Höhe-1>_ |_<Maßnahme-1>_
+| _<2>_ | _<Risiko-2>_ | _<%2-2>_ | _<Höhe-2>_ |_<Maßnahme-1>_
+|===
+
+=== 12.2. Annahmen
+[cols="1,5" options="header"]
+|===
+|Nr. |Text 
+| _<1>_ | _<Annahme-1>_ 
+| _<2>_ | _<Annahme-2>_ 
+|===
