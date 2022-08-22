@@ -1,7 +1,7 @@
-[[section-glossary]]
-== Glossar
+[[section-Teamstruktur]]
+== Teamstruktur
 
-[role="arc42help"]
+[role="req42help"]
 ****
 .Inhalt
 Die wesentlichen fachlichen und technischen Begriffe, die Stakeholder im Zusammenhang mit dem System verwenden.
@@ -14,7 +14,7 @@ Sie sollten relevante Begriffe klar definieren, so dass alle Beteiligten
 * diese Begriffe identisch verstehen, und
 * vermeiden, mehrere Begriffe für die gleiche Sache zu haben.
 
-.Form
+.Notationen/Tools
 * Zweispaltige Tabelle mit <Begriff> und <Definition>
 * Eventuell weitere Spalten mit Übersetzungen, falls notwendig.
 
@@ -24,13 +24,12 @@ Siehe https://docs.arc42.org/section-12/[Glossar] in der online-Dokumentation (a
 
 ****
 
-[cols="e,2e" options="header"]
+[cols="1,2,2" options="header"]
 |===
-|Begriff |Definition
+|Team |Team-Mitglied |Themen
+|<<Team-1>> |PO: <<Name>> | <<Teilprodukt-A>>
+|           |<<Team-Member-1>>  |  
+|           |<<Team-Member-2>>  |      
+|  <<Team-2>> | PO: <<Name>> | <<Teilprodukt-B  
 
-|<Begriff-1>
-|<Definition-1>
-
-|<Begriff-2
-|<Definition-2>
 |===
