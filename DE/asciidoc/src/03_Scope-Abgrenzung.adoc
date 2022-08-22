@@ -1,28 +1,34 @@
-[[section-solution-strategy]]
-== Lösungsstrategie
+[[section-Scope-Abgrenzung]]
+== Scope-Abgrezung
 
-[role="arc42help"]
+[role="req42help"]
 ****
 .Inhalt
-Kurzer Überblick über die grundlegenden Entscheidungen und Lösungsansätze, die Entwurf und Implementierung des Systems prägen.
-Hierzu gehören:
-
-* Technologieentscheidungen
-* Entscheidungen über die Top-Level-Zerlegung des Systems, beispielsweise die Verwendung gesamthaft prägender Entwurfs- oder Architekturmuster,
-* Entscheidungen zur Erreichung der wichtigsten Qualitätsanforderungen sowie
-* relevante organisatorische Entscheidungen, beispielsweise für bestimmte Entwicklungsprozesse oder Delegation bestimmter Aufgaben an andere Stakeholder.
+Ihr Produkt mit allen externen Schnittstellen zu (menschlichen und automatisierten) Nachbarn, bzw. Nachbarsystemen
 
 .Motivation
-Diese wichtigen Entscheidungen bilden wesentliche „Eckpfeiler“ der Architektur.
-Von ihnen hängen viele weitere Entscheidungen oder Implementierungsregeln ab.
+Scope ist der Bereich, den Sie beeinflussen können. Die Umgebung des Produktes, zu dem es sicherlich viele Schnittstellen gibt stellt den Kontext dar. Der Kontext kann (normalerweise) nicht von Ihnen allein entschieden werden, kann aber oft verhandeln werden. Um Klarheit zu gewinnen ist es wichtig beides möglichst zu beschreiben und vor allem die Grenze zwischen den beiden Bereichen zu definieren.
+req42 empfiehlt Ihnen mit dem Business-Scope zu beginnen und nicht zu früh den Product-Scope einzuschränken. Die Entscheidung über die Produktgrenze sollte eine bewusste Entscheidung sein.
+Mehr über dieses unverzichtbare Thema lesen Sie im Blog-Beitrag „Scope ist nicht gleich Scope“ oder in [2]. In unseren Kursen üben Sie die Scope-Abgrenzung anhand einer realistischen Fallstudie.
 
 .Form
-Fassen Sie die zentralen Entwurfsentscheidungen *kurz* zusammen.
-Motivieren Sie, ausgehend von Aufgabenstellung, Qualitätszielen und Randbedingungen, was Sie entschieden haben und warum Sie so entschieden haben.
-Vermeiden Sie redundante Beschreibungen und verweisen Sie eher auf weitere Ausführungen in Folgeabschnitten.
+Zur Darstellung der Scope-Abgrenzung gibt es viele verschiedene Ausdrucksmittel, aber eine gute Scope-Abgrenzung macht die Schnittstellen zum Kontext explizit (z.B. in Form von Ein- und Ausgaben, von angebotenen und benötigten Services, ...)
+* Diverse Formen von Kontextdiagrammen 
+* Kontexttabelle
 
 .Weiterführende Informationen
 
 Siehe https://docs.arc42.org/section-4/[Lösungsstrategie] in der online-Dokumentation (auf Englisch!).
 
 ****
+
+<<Kontextdiagramm>> oder <<Kontexttabelle>> hier einfügen.
+
+Optional: Tabelle mit Erläuterungen der Schnittstellen ergänzen:
+
+[cols="1,3" options="header"]
+|===
+|Bedeutung |Erläuterung 
+| _<IF-1>_ | _<Erläuterung-1>_ 
+| _<IF-2>_ | _<Erläuerung-2>_ 
+|===
