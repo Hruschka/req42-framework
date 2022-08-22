@@ -1,19 +1,19 @@
-[[section-architecture-constraints]]
-== Randbedingungen
+[[section-Betriebsmittel-und-Personal]]
+== Betriebsmittel und Personal
 
-[role="arc42help"]
+[role="req42help"]
 ****
 .Inhalt
-Randbedingungen und Vorgaben, die ihre Freiheiten bezüglich Entwurf, Implementierung oder Ihres Entwicklungsprozesses einschränken.
-Diese Randbedingungen gelten manchmal organisations- oder firmenweit über die Grenzen einzelner Systeme hinweg.
+Unter Betriebsmittel und Personal („Assets“) fassen wir das zusammen, was Ihnen Ihre Auftraggeber oder Chefs mitgeben, um Sie als Product Owner (zusammen mit Ihrem Team) zu befähigen, Ihren Job erfolgreich auszuführen.
+Die Assets schließen auf jeden Fall Zeit und Budget ein, d.h. Mittel, die man Ihnen für Ihre Aufgabe zur Verfügung stellt. Vielleicht müssen Sie sich Ihr Team mit diesen Mitteln selbst besorgen oder man stellt Ihnen auch Personal (Ihr Team), Arbeitsräume, Infrastruktur, etc. zur Verfügung.
+
 
 .Motivation
-Für eine tragfähige Architektur sollten Sie genau wissen, wo Ihre Freiheitsgrade bezüglich der Entwurfsentscheidungen liegen und wo Sie Randbedingungen beachten müssen.
-Sie können Randbedingungen vielleicht noch verhandeln, zunächst sind sie aber da.
+Wenn Sie den Job als Product Owner übernehmen, dann müssen Sie über diese Assets mit Ihren Auftraggebern verhandeln und sicherlich im Endeffekt über deren Verwendung auch (durch hoffentlich erfolgreiche Ergebnisse) Rechenschaft ablegen.
+Auf jeden Fall sollten Sie wissen, was Ihnen an Geld, Personal, Zeit, Infrastruktur, ... zur Verfügung steht. Diese Assets sind eine wesentliche Randbedingung für Ihre Arbeit als Product Owner.
 
-.Form
-Einfache Tabellen der Randbedingungen mit Erläuterungen.
-Bei Bedarf unterscheiden Sie technische, organisatorische und politische Randbedingungen oder übergreifende Konventionen (beispielsweise Programmier- oder Versionierungsrichtlinien, Dokumentations- oder Namenskonvention).
+.Notationen/Tools
+Einfache Listen, Tabellen
 
 
 .Weiterführende Informationen
@@ -21,3 +21,13 @@ Bei Bedarf unterscheiden Sie technische, organisatorische und politische Randbed
 Siehe https://docs.arc42.org/section-2/[Randbedingungen] in der online-Dokumentation (auf Englisch!).
 
 ****
+
+=== 9.1 Budget: 
+(evtl. gegliedert nach Roadmap oder Zwischenzielen, bzw. aufgeteilt in Personalbudget, Sachbudget, ...)
+
+=== 9.2 Zeitrahmen/Endtermin:
+
+=== 9.3 Teammitglieder: 
+(Aufzählung oder aber ein Link auf komplexe Teamstruktur in Abschnitt 10)
+
+=== 9.4 Externe Ressourcen:
