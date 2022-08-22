@@ -1,45 +1,19 @@
-[[section-concepts]]
-== Querschnittliche Konzepte
+[[section-Qualitaetsanforderungen]]
+== Qualitätsanforderungen
 
-[role="arc42help"]
+[role="req42help"]
 ****
 .Inhalt
-Dieser Abschnitt beschreibt übergreifende, prinzipielle Regelungen und Lösungsansätze, die an mehreren Stellen (=_querschnittlich_) relevant sind.
-
-Solche Konzepte betreffen oft mehrere Bausteine.
-Dazu können vielerlei Themen gehören, beispielsweise:
-
-* Modelle, insbesondere fachliche Modelle
-* Architektur- oder Entwurfsmuster
-* Regeln für den konkreten Einsatz von Technologien
-* prinzipielle -- meist technische -- Festlegungen übergreifender Art
-* Implementierungsregeln
+Anforderungen an Qualitäten sind das "Wie" zum "Was" – qualitative Definitionen oder Präzisierungen der funktionalen Anforderungen.
 
 .Motivation
-Konzepte bilden die Grundlage für _konzeptionelle Integrität_ (Konsistenz, Homogenität) der Architektur und damit eine wesentliche Grundlage für die innere Qualität Ihrer Systeme.
+Unsere Erfahrung zeigt: Qualitätsanforderungen sind (leider) nicht nur in der agilen Welt immer noch heftig unterschätzt. Jeder will qualitativ gute Produkte und Services, aber nur wenige machen es explizit, was damit genau gemeint ist.
+Einige Qualitätsanforderungen (wie Antwortzeiten) lassen sich vielleicht direkt in eine Story integrieren (oder als Abnahmekriterium dazuschreiben). Die große Mehrheit an Qualitätsanforderungen bezieht sich jedoch auf viele, wenn nicht sogar auf alle funktionalen Anforderungen des Product Backlogs. Deshalb brauchen Sie als Product Owner irgendwo die Möglichkeit, die gewünschten Qualitäten Ihrer Produkte und Services zu spezifizieren und zuzuweisen.
+Für diese Tätigkeit stehen Ihnen industrie-erprobten Checklisten (wie ISO 25010 und andere) zur Verfügung, welche Ihnen helfen, rasch die wichtigsten Kategorien zu identifizieren und managen zu können.
 
-Manche dieser Themen lassen sich nur schwer als Baustein in der Architektur unterbringen (z.B. das Thema „Sicherheit“).
+.Notationen/Tools
+Einfache textuelle Szenarien, evtl. nach den Kapiteln des ISO 25010 Qualitätsbaums oder nach VOLERE gegliedert.
 
-.Form
-Kann vielfältig sein:
-
-* Konzeptpapiere mit beliebiger Gliederung,
-* übergreifende Modelle/Szenarien mit Notationen, die Sie auch in den Architektursichten nutzen,
-* beispielhafte Implementierung speziell für technische Konzepte,
-* Verweise auf „übliche“ Nutzung von Standard-Frameworks (beispielsweise die Nutzung von Hibernate als Object/Relational Mapper).
-
-.Struktur
-Eine mögliche (nicht aber notwendige!) Untergliederung dieses Abschnittes könnte wie folgt aussehen (wobei die Zuordnung von Themen zu den Gruppen nicht immer eindeutig ist):
-
-* Fachliche Konzepte
-* User Experience (UX)
-* Sicherheitskonzepte (Safety und Security)
-* Architektur- und Entwurfsmuster
-* Unter-der-Haube
-* Entwicklungskonzepte
-* Betriebskonzepte
-
-image::08-Crosscutting-Concepts-Structure-DE.png["Possible topics for crosscutting concepts"]
 
 .Weiterführende Informationen
 
@@ -47,16 +21,16 @@ Siehe https://docs.arc42.org/section-8/[Querschnittliche Konzepte] in der online
 
 ****
 
-=== _<Konzept 1>_
+<<Text Qualitätsanforderungen bzw. -Szenario 1>> :
+<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
 
-_<Erklärung>_
+<<Text Qualitätsanforderungen bzw. -Szenario 2>>:
+<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
 
-=== _<Konzept 2>_
-
-_<Erklärung>_
-
-...
-
-=== _<Konzept n>_
-
-_<Erklärung>_
+<<Text Qualitätsanforderungen bzw. -Szenario 3>>:
+<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
+.....
+.....
+.....
+<<Text Qualitätsanforderungen bzw. -Szenario n>>:
+<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
