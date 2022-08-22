@@ -30,5 +30,5 @@ Optional: Tabelle mit Erläuterungen der Schnittstellen ergänzen:
 |===
 |Bedeutung |Erläuterung 
 | _<IF-1>_ | _<Erläuterung-1>_ 
-| _<IF-2>_ | _<Erläuerung-2>_ 
+| _<IF-2>_ | _<Erläuterung-2>_ 
 |===

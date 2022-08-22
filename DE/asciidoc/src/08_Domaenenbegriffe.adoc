@@ -1,37 +1,16 @@
-[[section-runtime-view]]
-== Laufzeitsicht
+[[section-Domaenenbegriffe]]
+== Domänenbegriffe
 
-[role="arc42help"]
+[role="req4242help"]
 ****
 .Inhalt
-Diese Sicht erklärt konkrete Abläufe und Beziehungen zwischen Bausteinen in Form von Szenarien aus den folgenden Bereichen:
-
-*  Wichtige Abläufe oder _Features_:
-Wie führen die Bausteine der Architektur die wichtigsten Abläufe durch?
-*  Interaktionen an kritischen externen Schnittstellen:
-Wie arbeiten Bausteine mit Nutzern und Nachbarsystemen zusammen?
-* Betrieb und Administration: Inbetriebnahme, Start, Stop.
-* Fehler- und Ausnahmeszenarien
-
-Anmerkung:
-Das Kriterium für die Auswahl der möglichen Szenarien (d.h. Abläufe) des Systems ist deren Architekturrelevanz.
-Es geht nicht darum, möglichst viele Abläufe darzustellen, sondern eine angemessene Auswahl zu dokumentieren.
+Ein Glossar von fachlichen Begriffen mit Definitionen.
 
 .Motivation
-Sie sollten verstehen, wie (Instanzen von) Bausteine(n) Ihres Systems ihre jeweiligen Aufgaben erfüllen und zur Laufzeit miteinander kommunizieren.
+In jedem Epic, Feature oder Story kommen Begriffe aus Ihrer Domäne vor. Diese Begriffe sollten allen Beteiligten klar sein. Und deshalb ist es wünschenswert, für ein Projekt oder eine Produktentwicklung ein Glossar solcher Begriffe zu haben. Stellen Sie sicher, dass alle Beteiligten eine gemeinsame Sprache sprechen – und im Zweifelsfall Zugriff auf vereinbarte Begriffsdefinitionen haben, statt in jedem Meeting wieder neue Wörter ins Spiel zu bringen.
 
-Nutzen Sie diese Szenarien in der Dokumentation hauptsächlich für eine verständlichere Kommunikation mit denjenigen Stakeholdern, die die statischen Modelle (z.B. Bausteinsicht, Verteilungssicht) weniger verständlich finden.
-
-.Form
-Für die Beschreibung von Szenarien gibt es zahlreiche Ausdrucksmöglichkeiten.
-Nutzen Sie beispielsweise:
-
-* Nummerierte Schrittfolgen oder Aufzählungen in Umgangssprache
-* Aktivitäts- oder Flussdiagramme
-* Sequenzdiagramme
-* BPMN (Geschäftsprozessmodell und -notation) oder EPKs (Ereignis-Prozessketten)
-* Zustandsautomaten
-* ...
+.Notationen/Tools
+Alphabetisch geordnete Liste von Begriffsdefinitionen
 
 .Weiterführende Informationen
 
@@ -39,15 +18,9 @@ Siehe https://docs.arc42.org/section-6/[Laufzeitsicht] in der online-Dokumentati
 
 ****
 
-=== _<Bezeichnung Laufzeitszenario 1>_
-
-*  <hier Laufzeitdiagramm oder Ablaufbeschreibung einfügen>
-*  <hier Besonderheiten bei dem Zusammenspiel der Bausteine in diesem Szenario erläutern>
-
-=== _<Bezeichnung Laufzeitszenario 2>_
-
-...
-
-=== _<Bezeichnung Laufzeitszenario n>_
-
-...
+[cols="1,3" options="header"]
+|===
+|Bedeutung |Erläuterung 
+| _<Begriff-1>_ | _<Erläuterung-1>_ 
+| _<Begriff-2>_ | _<Erläuterung-2>_ 
+|===
