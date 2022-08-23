@@ -1,23 +1,25 @@
-[[section-technical-risks]]
-== Risiken und technische Schulden
+[[section-roadmap]]
+== Roadmap
 
-[role="arc42help"]
+[role="req42help"]
 ****
-.Inhalt
-Eine nach Prioritäten geordnete Liste der erkannten Architekturrisiken und/oder technischen Schulden.
+.Content
+"Delivery objects put on the timeline" - who delivers what and when?
 
 .Motivation
-"Risikomanagement ist Projektmanagement für Erwachsene."
--- Tim Lister, Atlantic Systems Guild
+Agile projects also need a plan. The more distant a goal is, the less precise the plan can be. The closer, the more precise.
+An explicitly known roadmap enables all participants to coordinate with each other and to think along with each other, and therefore to take into account what is still to come in the medium term when making short-term decisions.
+If you only live from hand to mouth, you may unknowingly make short-term decisions that are contrary to longer-term product success. In our courses we show you how rough or fine a roadmap can, may or should be.
 
-Unter diesem Motto sollten Sie Architekturrisiken und/oder technische Schulden gezielt ermitteln, bewerten und Ihren Management-Stakeholdern (z.B. Projektleitung, Product-Owner) transparent machen.
-
-.Form
-Liste oder Tabelle von Risiken und/oder technischen Schulden, eventuell mit vorgeschlagenen Maßnahmen zur Risikovermeidung, Risikominimierung oder dem Abbau der technischen Schulden.
+.Notations/Tools
+Whatever you have in use as a planning tool or which allows you to present, if possible on one page, an appropriate overview over a longer period of time.
 
 
-.Weiterführende Informationen
+.More Information
 
 Siehe https://docs.arc42.org/section-11/[Risiken und technische Schulden] in der online-Dokumentation (auf Englisch!).
 ****
+
+<< Insert planning here>>
+
 

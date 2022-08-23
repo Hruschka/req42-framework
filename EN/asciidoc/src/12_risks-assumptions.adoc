@@ -1,36 +1,43 @@
-[[section-glossary]]
-== Glossar
+[[section-risks-assumptions]]
+== Risks & Assumptions
 
-[role="arc42help"]
+[role="req42help"]
 ****
-.Inhalt
-Die wesentlichen fachlichen und technischen Begriffe, die Stakeholder im Zusammenhang mit dem System verwenden.
-
-Nutzen Sie das Glossar ebenfalls als Übersetzungsreferenz, falls Sie in mehrsprachigen Teams arbeiten.
+.Content
+(Prioritized) lists of risks you have identified and a list of assumptions you have made as a basis for decisions.
 
 .Motivation
-Sie sollten relevante Begriffe klar definieren, so dass alle Beteiligten
+"Risk management is project management for adults" says Tim Lister of the Atlantic Systems Guild".  With this in mind, you should keep your risks under control as a product owner.
+req42 provides you with the means to consciously manage risks. Especially when prioritizing your requirements you should balance business value and risk reduction.
 
-* diese Begriffe identisch verstehen, und
-* vermeiden, mehrere Begriffe für die gleiche Sache zu haben.
+.Notations/Tools
+Simple tables or lists are often already sufficient.
 
-.Form
-* Zweispaltige Tabelle mit <Begriff> und <Definition>
-* Eventuell weitere Spalten mit Übersetzungen, falls notwendig.
-
-.Weiterführende Informationen
+.More Information
 
 Siehe https://docs.arc42.org/section-12/[Glossar] in der online-Dokumentation (auf Englisch!).
 
 ****
 
-[cols="e,2e" options="header"]
-|===
-|Begriff |Definition
+=== 12.1. Risks
 
-|<Begriff-1>
-|<Definition-1>
 
-|<Begriff-2
-|<Definition-2>
+[cols="1,3,1,1,3 " options="header"]
 |===
+|Id |Text  | Probability |Damage Amount | Possible Measures
+|   |      |             |              |    
+|   |      |             |              |    
+|===
+
+=== 12.2. Assumptions
+
+[cols="1,5" options="header"]
+|===
+|Id |Text  
+|   |       
+|   |      
+|===
+
+
+
+

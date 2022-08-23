@@ -1,62 +1,32 @@
-[[section-quality-scenarios]]
-== Qualitätsanforderungen
+[[section-teams]]
+== Teams
 
-[role="arc42help"]
+[role="req42help"]
 ****
-.Inhalt
-Dieser Abschnitt enthält möglichst alle Qualitätsanforderungen als Qualitätsbaum mit Szenarien.
-Die wichtigsten davon haben Sie bereits in Abschnitt 1.2 (Qualitätsziele) hervorgehoben.
-
-Nehmen Sie hier auch Qualitätsanforderungen geringerer Priorität auf, deren Nichteinhaltung oder -erreichung geringe Risiken birgt.
+.Content
+This section can be omitted for small product developments with only one development team, since the team members are already listed in the previous section.  For scaled large products, the organization chart of your teams should be here and an assignment to the topics (e.g. epics, features, ...) this team is responsible for.
 
 .Motivation
-Weil Qualitätsanforderungen die Architekturentscheidungen oft maßgeblich beeinflussen, sollten Sie die für Ihre Stakeholder relevanten Qualitätsanforderungen kennen, möglichst konkret und operationalisiert.
-****
+If you have more than one team at your disposal, it goes without saying that you should have an overview of who works in which (sub-)team and how these teams are organized. 
+The focus should be on (sub-)teams being organized in such a way that they can deliver functions/features or partial products as independently as possible without having to constantly coordinate with everyone else. 
 
-.Weiterführende Informationen
+.Notations/Tools
+Lists of teams (each with assigned people and assigned topics from the roadmap or from the product backlog (e.g., epics or features).
+
+.More Information
 
 Siehe https://docs.arc42.org/section-10/[Qualitätsanforderungen] in der online-Dokumentation (auf Englisch!).
 
-=== Qualitätsbaum
-
-[role="arc42help"]
-****
-.Inhalt
-Der Qualitätsbaum (à la ATAM) mit Qualitätsszenarien an den Blättern.
-
-.Motivation
-Die mit Prioritäten versehene Baumstruktur gibt Überblick über die -- oftmals zahlreichen -- Qualitätsanforderungen.
-
-.Form
-* Baumartige Verfeinerung des Begriffes „Qualität“, mit „Qualität“ oder „Nützlichkeit“ als Wurzel.
-* Mindmap mit Qualitätsoberbegriffen als Hauptzweige
-
-In jedem Fall sollten Sie hier Verweise auf die Qualitätsszenarien des folgenden Abschnittes aufnehmen.
 ****
 
-=== Qualitätsszenarien
-
-[role="arc42help"]
-****
-.Inhalt
-Konkretisierung der (in der Praxis oftmals vagen oder impliziten) Qualitätsanforderungen durch (Qualitäts-)Szenarien.
-
-Diese Szenarien beschreiben, was beim Eintreffen eines Stimulus auf ein System in bestimmten Situationen geschieht.
-
-Wesentlich sind zwei Arten von Szenarien:
-
-* Nutzungsszenarien (auch bekannt als Anwendungs- oder Anwendungsfallszenarien) beschreiben, wie das System zur Laufzeit auf einen bestimmten Auslöser reagieren soll.
-Hierunter fallen auch Szenarien zur Beschreibung von Effizienz oder Performance.
-Beispiel: Das System beantwortet eine Benutzeranfrage innerhalb einer Sekunde.
-* Änderungsszenarien beschreiben eine Modifikation des Systems oder seiner unmittelbaren Umgebung.
-Beispiel: Eine zusätzliche Funktionalität wird implementiert oder die Anforderung an ein Qualitätsmerkmal ändert sich.
-
-
-.Motivation
-Szenarien operationalisieren Qualitätsanforderungen und machen deren Erfüllung mess- oder entscheidbar.
-
-Insbesondere wenn Sie die Qualität Ihrer Architektur mit Methoden wie ATAM überprüfen wollen, bedürfen die in Abschnitt 1.2 genannten Qualitätsziele einer weiteren Präzisierung bis auf die Ebene von diskutierbaren und nachprüfbaren Szenarien.
-
-.Form
-Entweder tabellarisch oder als Freitext.
-****
+[cols="1,2,2" options="header"]
+|===
+|Team |Team Members |Feature  
+| _<Team-1>_ |PO: _<Person-1>_ | _<Feature-A>_ 
+|            | _<Team member-2>_|      
+|            | _<Team member-3>_| 
+|            |                  | 
+| _<Team-2>_ |PO_<Person-2>_ | _<Feature-B>_ 
+|            | _<Team member-2>_| 
+|            |             |             |
+|===
