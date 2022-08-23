@@ -31,13 +31,12 @@ include::src/about-req42.adoc[]
 // horizontal line
 ***
 
-[role="arc42help"]
+[role="req42help"]
 ****
 [NOTE]
 ====
-Diese Version des Frameworks enthält Hilfen und Erläuterungen.
-Sie dient der Einarbeitung in req42 sowie dem Verständnis der Konzepte.
-Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
+This version of the framework contains help texts and explanations. It is meant to familiarize yourself with the framework. 
+For your own documentation better use the _plain_ Version.
 ====
 ****
 
