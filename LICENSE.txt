@@ -9,7 +9,7 @@ We, the licensors, (Peter Hruschka and Markus Meuten, the creators of req42) can
 
 You must give appropriate credit, provide a link to the license, and indicate if changes to arc42 were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-If you remix, transform, or build upon material from arc42, you must distribute your contributions under the same license as the original.
+If you remix, transform, or build upon material from req42, you must distribute your contributions under the same license as the original.
 
 
 You are completely free to use or publish your own content, even if it is embedded in the arc42 template, according to your own rules.
