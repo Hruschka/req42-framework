@@ -1,62 +1,28 @@
-[[section-concepts]]
-== Querschnittliche Konzepte
+[[section-domain-terminology]]
+== Domain Terminology
 
-[role="arc42help"]
+[role="re42help"]
 ****
-.Inhalt
-Dieser Abschnitt beschreibt übergreifende, prinzipielle Regelungen und Lösungsansätze, die an mehreren Stellen (=_querschnittlich_) relevant sind.
-
-Solche Konzepte betreffen oft mehrere Bausteine.
-Dazu können vielerlei Themen gehören, beispielsweise:
-
-* Modelle, insbesondere fachliche Modelle
-* Architektur- oder Entwurfsmuster
-* Regeln für den konkreten Einsatz von Technologien
-* prinzipielle -- meist technische -- Festlegungen übergreifender Art
-* Implementierungsregeln
+.Content
+A glossary of technical terms with definitions.
 
 .Motivation
-Konzepte bilden die Grundlage für _konzeptionelle Integrität_ (Konsistenz, Homogenität) der Architektur und damit eine wesentliche Grundlage für die innere Qualität Ihrer Systeme.
+Terms from your domain appear in every epic, feature, or story. These terms should be clear to everyone involved. And that's why it is desirable to have a glossary of such terms for a project or product development. Make sure that everyone involved speaks a common language - and has access to agreed-upon definitions of terms instead of bringing new words into play in every meeting.
 
-Manche dieser Themen lassen sich nur schwer als Baustein in der Architektur unterbringen (z.B. das Thema „Sicherheit“).
+.Notations/Tools
+Alphabetically ordered list of term definitions
 
-.Form
-Kann vielfältig sein:
 
-* Konzeptpapiere mit beliebiger Gliederung,
-* übergreifende Modelle/Szenarien mit Notationen, die Sie auch in den Architektursichten nutzen,
-* beispielhafte Implementierung speziell für technische Konzepte,
-* Verweise auf „übliche“ Nutzung von Standard-Frameworks (beispielsweise die Nutzung von Hibernate als Object/Relational Mapper).
-
-.Struktur
-Eine mögliche (nicht aber notwendige!) Untergliederung dieses Abschnittes könnte wie folgt aussehen (wobei die Zuordnung von Themen zu den Gruppen nicht immer eindeutig ist):
-
-* Fachliche Konzepte
-* User Experience (UX)
-* Sicherheitskonzepte (Safety und Security)
-* Architektur- und Entwurfsmuster
-* Unter-der-Haube
-* Entwicklungskonzepte
-* Betriebskonzepte
-
-image::08-Crosscutting-Concepts-Structure-DE.png["Possible topics for crosscutting concepts"]
-
-.Weiterführende Informationen
+.More Information
 
 Siehe https://docs.arc42.org/section-8/[Querschnittliche Konzepte] in der online-Dokumentation (auf Englisch).
 
 ****
 
-=== _<Konzept 1>_
-
-_<Erklärung>_
-
-=== _<Konzept 2>_
-
-_<Erklärung>_
-
-...
-
-=== _<Konzept n>_
-
-_<Erklärung>_
+[cols="1,5" options="header"]
+|===
+|Term |Definition
+| _<Term-1>_ |_<Definition-1>_  
+| _<Term-2>_ |_<Defintion-2>_  
+|            |             
+|===

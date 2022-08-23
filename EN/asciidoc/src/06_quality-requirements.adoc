@@ -1,53 +1,34 @@
-[[section-runtime-view]]
-== Laufzeitsicht
+[[section-quality-requirements]]
+== Quality Requirements
 
-[role="arc42help"]
+[role="req42help"]
 ****
-.Inhalt
-Diese Sicht erklärt konkrete Abläufe und Beziehungen zwischen Bausteinen in Form von Szenarien aus den folgenden Bereichen:
-
-*  Wichtige Abläufe oder _Features_:
-Wie führen die Bausteine der Architektur die wichtigsten Abläufe durch?
-*  Interaktionen an kritischen externen Schnittstellen:
-Wie arbeiten Bausteine mit Nutzern und Nachbarsystemen zusammen?
-* Betrieb und Administration: Inbetriebnahme, Start, Stop.
-* Fehler- und Ausnahmeszenarien
-
-Anmerkung:
-Das Kriterium für die Auswahl der möglichen Szenarien (d.h. Abläufe) des Systems ist deren Architekturrelevanz.
-Es geht nicht darum, möglichst viele Abläufe darzustellen, sondern eine angemessene Auswahl zu dokumentieren.
+.Content
+Quality requirements are the "how" to the "what" - qualitative definitions or precisions of the functional requirements.
 
 .Motivation
-Sie sollten verstehen, wie (Instanzen von) Bausteine(n) Ihres Systems ihre jeweiligen Aufgaben erfüllen und zur Laufzeit miteinander kommunizieren.
+ur experience shows: Quality requirements are (unfortunately) still severely underestimated, not only in the agile world. Everyone wants good quality products and services, but only a few make it explicit what exactly is meant by this.
+Some quality requirements (such as response times) can perhaps be integrated directly into a story (or added as an acceptance criterion). However, the vast majority of quality requirements relate to many, if not all, of the functional requirements in the product backlog. Therefore, as a product owner, you need somewhere to specify and assign the desired qualities of your products and services. For this activity, industry-proven checklists (such as ISO 25010 and others) are available to help you quickly identify and manage the most important categories.
 
-Nutzen Sie diese Szenarien in der Dokumentation hauptsächlich für eine verständlichere Kommunikation mit denjenigen Stakeholdern, die die statischen Modelle (z.B. Bausteinsicht, Verteilungssicht) weniger verständlich finden.
+.Notations/Tools
+Simple textual scenarios, possibly structured according to the chapters of the ISO 25010 quality tree or according to VOLERE.
 
-.Form
-Für die Beschreibung von Szenarien gibt es zahlreiche Ausdrucksmöglichkeiten.
-Nutzen Sie beispielsweise:
-
-* Nummerierte Schrittfolgen oder Aufzählungen in Umgangssprache
-* Aktivitäts- oder Flussdiagramme
-* Sequenzdiagramme
-* BPMN (Geschäftsprozessmodell und -notation) oder EPKs (Ereignis-Prozessketten)
-* Zustandsautomaten
-* ...
-
-.Weiterführende Informationen
+.More Information
 
 Siehe https://docs.arc42.org/section-6/[Laufzeitsicht] in der online-Dokumentation (auf Englisch!).
 
 ****
 
-=== _<Bezeichnung Laufzeitszenario 1>_
+<< quality requirement or scenario 1>> :
+<<Link to functional requirements or scope for this quality >>
 
-*  <hier Laufzeitdiagramm oder Ablaufbeschreibung einfügen>
-*  <hier Besonderheiten bei dem Zusammenspiel der Bausteine in diesem Szenario erläutern>
+<< quality requirement or scenario 2>> :
+<<Link to functional requirements or scope for this quality >>
 
-=== _<Bezeichnung Laufzeitszenario 2>_
-
-...
-
-=== _<Bezeichnung Laufzeitszenario n>_
-
-...
+<< quality requirement or scenario 3>> :
+<<Link to functional requirements or scope for this quality >>
+.....
+.....
+.....
+<< quality requirement or scenario n>> :
+<<Link to functional requirements or scope for this quality >>

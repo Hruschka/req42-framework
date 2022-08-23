@@ -1,23 +1,37 @@
-[[section-architecture-constraints]]
-== Randbedingungen
+[[section-stakeholder]]
+== Stakeholder
 
-[role="arc42help"]
+[role="req42help"]
 ****
-.Inhalt
-Randbedingungen und Vorgaben, die ihre Freiheiten bezüglich Entwurf, Implementierung oder Ihres Entwicklungsprozesses einschränken.
-Diese Randbedingungen gelten manchmal organisations- oder firmenweit über die Grenzen einzelner Systeme hinweg.
+.Content
+A (prioritized) list of your stakeholders, along with indications of where these stakeholders can help (or hinder) the analysis work.
 
 .Motivation
-Für eine tragfähige Architektur sollten Sie genau wissen, wo Ihre Freiheitsgrade bezüglich der Entwurfsentscheidungen liegen und wo Sie Randbedingungen beachten müssen.
-Sie können Randbedingungen vielleicht noch verhandeln, zunächst sind sie aber da.
+Stakeholders are the most important sources for requirements. Therefore, you should know and document them. You need to know who can help you with what or hinder you in what way. You need to know who has what influence - and if opinions differ, you need to mediate or decide.
+Without explicitly identified stakeholders, all this is difficult.
 
-.Form
+.Notations/Tools
 Einfache Tabellen der Randbedingungen mit Erläuterungen.
 Bei Bedarf unterscheiden Sie technische, organisatorische und politische Randbedingungen oder übergreifende Konventionen (beispielsweise Programmier- oder Versionierungsrichtlinien, Dokumentations- oder Namenskonvention).
 
+* Tables or lists (simple form)
+*  Possibly stakeholder map (more complex form)
 
-.Weiterführende Informationen
+Below we have included a simple stakeholder list as an example.
+
+The order "role before person" has been chosen deliberately. This order has proven itself since requirements normally always represent needs from the perspective of a role, but the person taking on the role can change during the project.
+If required, you can also add further columns (contact data, ...) - but consider the effort for their maintenance.
+
+.More Information
 
 Siehe https://docs.arc42.org/section-2/[Randbedingungen] in der online-Dokumentation (auf Englisch!).
 
 ****
+
+[cols="1,2,1,1" options="header"]
+|===
+|Role |Person |Topic  |Influence
+| _<Role-1>_ |_<Person-1>_ | _<Topic-1>_ | _<Influence-1> 
+| _<Role-2>_ |_<Person-2>_ | _<Topic-2>_ | _<Influence-2> 
+|            |             |             |
+|===
