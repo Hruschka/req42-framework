@@ -25,8 +25,7 @@ In case you find issues within the framework or its explanations, this is the re
 
 == Downloads
 
-Please refer to the https://req42.de/download[official download page] for
-all downloads.
+Please refer to the https://req42.de/download[official download page] for all downloads.
 
 == Languages
 
@@ -44,7 +43,7 @@ $> gradle asciidoctor
 on the command line.
 Within the `build.gradle` script, you might replace the default language (EN) with your choice.
 
-== Questions on using arc42?
+== Questions on using req42?
 
 * see the extensive https://docs.req42.de [documentation website, currently under construction]
 * see the https://req42.de[overview] 
