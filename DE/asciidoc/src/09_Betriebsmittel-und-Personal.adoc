@@ -22,12 +22,12 @@ Siehe https://docs.arc42.org/section-2/[Randbedingungen] in der online-Dokumenta
 
 ****
 
-=== 9.1 Budget: 
+=== Budget: 
 (evtl. gegliedert nach Roadmap oder Zwischenzielen, bzw. aufgeteilt in Personalbudget, Sachbudget, ...)
 
-=== 9.2 Zeitrahmen/Endtermin:
+=== Zeitrahmen/Endtermin:
 
-=== 9.3 Teammitglieder: 
+=== Teammitglieder: 
 (Aufzählung oder aber ein Link auf komplexe Teamstruktur in Abschnitt 10)
 
-=== 9.4 Externe Ressourcen:
+=== Externe Ressourcen:

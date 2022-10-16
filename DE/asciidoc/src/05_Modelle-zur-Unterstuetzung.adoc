@@ -35,6 +35,6 @@ Siehe https://docs.arc42.org/section-7/[Verteilungssicht] in der online-Dokument
 
 <<Diagrammtitel 3:>>. <<hier Diagramm und evtl. Erläuterungen einfügen>> <<optional: Link zu Epics, Features oder Storys>> 
 
-....
+...
 
 <<Diagrammtitel n:>>. <<hier Diagramm und evtl. Erläuterungen einfügen>> <<optional: Link zu Epics, Features oder Storys>> 
