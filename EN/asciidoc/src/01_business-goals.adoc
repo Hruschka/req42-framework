@@ -9,6 +9,7 @@ The business objectives of your product development or project. Short and concis
 
 .Motivation
 Goals must be specified and agreed upon to the point where everyone involved has a clear idea of what is to be accomplished and in what time frames. Establishing vision and goals guides the team in developing detailed requirements and avoids fragmentation.
+
 Perhaps your clients gave you rough goals or a vision when they entrusted you with the role of product owner. Often, however, the precision of these specifications is not enough to lead a team systematically to success.
 
 
@@ -16,8 +17,11 @@ Perhaps your clients gave you rough goals or a vision when they entrusted you wi
 A wide variety of means of expression are available for defining goals, which you can choose according to your mood.
 
 Our recommendation:
+
 * Notation in the form of PAM (Purpose, Advantage, Metric).
+
 Alternative forms of notation:
+
 * Product case
 * News from the Future
 * Product Canvas

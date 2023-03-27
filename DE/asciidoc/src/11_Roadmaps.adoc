@@ -8,7 +8,9 @@
 
 .Motivation
 Auch agile Projekte brauchen einen Plan. Je weiter ein Ziel in der Ferne liegt, desto ungenauer kann der Plan sein. Je näher, desto genauer.
-Eine explizit bekannte Roadmap ermöglicht allen Beteiligten sich untereinander abzustimmen und mitzudenken und daher bei kurzfristigen Entscheidungen zu berücksichtigen, was da mittelfristig noch alles kommen wird. 
+
+Eine explizit bekannte Roadmap ermöglicht allen Beteiligten sich untereinander abzustimmen und mitzudenken und daher bei kurzfristigen Entscheidungen zu berücksichtigen, was da mittelfristig noch alles kommen wird.
+
 Wenn Sie nur von der Hand in den Mund leben, treffen Sie unter Umständen unwissentlich kurzfristig Entscheidungen, die dem längerfristigen Produkterfolg entgegenstehen. In unseren Kursen zeigen wir Ihnen, wie grob oder fein eine Roadmap sein kann, darf oder sollte.
 
 .Notationen/Tools

@@ -8,18 +8,19 @@
 
 .Motivation
 „Risikomanagement ist Projektmanagement für Erwachsene“  sagt Tim Lister von der Atlantic Systems Guild“.  In diesem Sinne sollten Sie Ihre Risiken als Product Owner im Griff halten.
+
 req42 gibt Ihnen die Mittel an die Hand, Risiken bewusst zu managen. Insbesondere beim Priorisierung Ihrer Anforderungen sollten Sie ausgewogen zwischen Business Value und Risk Reduction abwägen.
 
 .Notationen/Tools
 Einfache Tabellen oder Listen reichen oft bereits aus.
-
 
 .Weiterführende Informationen
 
 Siehe https://docs.arc42.org/section-11/[Risiken und technische Schulden] in der online-Dokumentation (auf Englisch!).
 ****
 
-=== 12.1. Risiken
+=== Risiken
+
 [cols="1,3,1,1,3" options="header"]
 |===
 |Nr. |Text |Wahrscheinlichkeit |Schadenshöhe | Evtl. Maßnahmen
@@ -27,7 +28,8 @@ Siehe https://docs.arc42.org/section-11/[Risiken und technische Schulden] in der
 | _<2>_ | _<Risiko-2>_ | _<%2-2>_ | _<Höhe-2>_ |_<Maßnahme-1>_
 |===
 
-=== 12.2. Annahmen
+=== Annahmen
+
 [cols="1,5" options="header"]
 |===
 |Nr. |Text 

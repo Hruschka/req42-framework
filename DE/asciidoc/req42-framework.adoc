@@ -2,8 +2,9 @@
 // including all help texts
 //
 // ====================================
+ifndef::imagesdir[:imagesdir: ../../images]
 
-= image:arc42-logo.png[req42] Framework
+= image:req42-logo.png[req42] Framework
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Inhaltsverzeichnis
 

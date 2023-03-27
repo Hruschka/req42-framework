@@ -9,21 +9,27 @@ Bei kleinen Produktentwicklungen mit nur einem Entwicklungsteam kann dieser Absc
 
 .Motivation
 Wenn Sie über mehrere Teams verfügen, ist es selbstverständlich, dass Sie einen Überblick darüber haben, wer in welchem (Sub-)Team arbeitet und wie diese Teams organisiert sind. 
-Der Fokus sollte darauf liegen, dass die (Teil-)Teams so organisiert sind, dass sie möglichst selbstständig Funktionen/Features oder Teilprodukte liefern können, ohne sich ständig mit allen anderen abstimmen zu müssen. 
+
+Der Fokus sollte darauf liegen, dass die (Teil-)Teams so organisiert sind, dass sie möglichst selbstständig Funktionen/Features oder Teilprodukte liefern können, ohne sich ständig mit allen anderen abstimmen zu müssen.
 
 .Notationen/Tools
 Listen von Teams (jeweils mit zugewiesenen Personen und zugewiesenen Themen aus der Roadmap oder aus dem Product Backlog (z. B. Epics oder Features).
 
 ****
 
-[cols="1,2,2" options="header"]
+[cols="2,2" options="header"]
 |===
-|Team |Team-Mitglied |Themen
-|<<Team-1>> |PO: <<Name>> | <<Teilprodukt-A>>
-|           |<<Team-Member-1>>  |  
-|           |                   |      
-|  <<Team-2>> | PO: <<Name>> | <<Teilprodukt-B>> 
-|           |<<Team-Member-1>>  |  
-|           |<<Team-Member-2>>  |
-|           |                   |   
+2+h|Team
+h|Team-Mitglied h|Themen
+
+2+|<<Team-1>>
+|PO: <<Name>>       | <<Teilprodukt-A>>
+|<<Team-Member-1>>  |
+|                   |
+
+2+|  <<Team-2>>
+| PO: <<Name>> | <<Teilprodukt-B>>
+|<<Team-Member-1>>  |
+|<<Team-Member-2>>  |
+|                   |
 |===

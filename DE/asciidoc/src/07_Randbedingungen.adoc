@@ -19,12 +19,14 @@ Dort finden Sie Links und Beispiele zum Thema ADR.
 
 ****
 
-=== 7.1 Organisatorische Randbedingungen
-*   
-*   
-* 
+=== Organisatorische Randbedingungen
+
+* .  
+* .  
+* .
   
-=== 7.2 Technische Randbedingungen
-*   
-*   
-*   
+=== Technische Randbedingungen
+
+* .  
+* . 
+* . 
