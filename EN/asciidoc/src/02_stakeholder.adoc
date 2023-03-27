@@ -8,10 +8,13 @@ A (prioritized) list of your stakeholders, along with indications of where these
 
 .Motivation
 Stakeholders are the most important sources for requirements. Therefore, you should know and document them. You need to know who can help you with what or hinder you in what way. You need to know who has what influence - and if opinions differ, you need to mediate or decide.
+
 Without explicitly identified stakeholders, all this is difficult.
 
 .Notations/Tools
+//TODO: übersetzen
 Einfache Tabellen der Randbedingungen mit Erläuterungen.
+
 Bei Bedarf unterscheiden Sie technische, organisatorische und politische Randbedingungen oder übergreifende Konventionen (beispielsweise Programmier- oder Versionierungsrichtlinien, Dokumentations- oder Namenskonvention).
 
 * Tables or lists (simple form)

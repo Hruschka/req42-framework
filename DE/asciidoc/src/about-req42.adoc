@@ -13,6 +13,5 @@ Erstellt von Dr. Peter Hruschka, Markus Meuten und Mitwirkenden.
 
 Template Revision: 2.0 DE (asciidoc-based), August 2022
 
-(C)
-We acknowledge that this document uses material from the req42 architecture framework, https://req42.de
+(C) We acknowledge that this document uses material from the req42 architecture framework, https://req42.de
 

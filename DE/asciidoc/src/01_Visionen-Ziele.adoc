@@ -14,12 +14,16 @@ Für uns gilt: Ziele sind Anforderungen! Oder präziser: Ziele sind die Anforder
 .Form
 Zur Definition von Zielen stehen Ihnen verschiedenste Ausdrucksmittel zur Verfügung, die Sie nach Lust und Laune wählen können. 
 Unsere Empfehlung:
-* Notation in Form von PAM (Purpose, Advantage, Metric) 
+
+* Notation in Form von PAM (Purpose, Advantage, Metric)
+
 Alternative Notationsformen:
+
 * Produktkoffer
 * News from the Future
 * Product Canvas
 * Value Proposition
+
 Nur eines sollten Sie nie machen: Ohne explizite Ziele oder Visionen zu arbeiten.
 
 .Weiterführende Informationen
@@ -29,15 +33,26 @@ Siehe https://docs.arc42.org/section-1/[Anforderungen und Ziele] in der online-D
 
 Zieldefinitionen nach PAM:
 
-Ziel 1:
-Vorteil 1:
-Metrik 1: 
+[cols="1,8"]
+|===
+|Ziel 1:
+|
+|Vorteil 1:
+|
+|Metrik 1:
+|
 
-Ziel 2:
-Vorteil 2:
-Metrik 2: 
+|Ziel 2:
+|
+|Vorteil 2:
+|
+|Metrik 2:
+|
 
-Ziel 3:
-Vorteil 3:
-Metrik 3: 
-
+|Ziel 3:
+|
+|Vorteil 3:
+|
+|Metrik 3:
+|
+|===
