@@ -4,10 +4,12 @@
 [role="re42help"]
 ****
 .Content
-A glossary of technical terms with definitions.
+A glossary of technical terms with definitions. The "ubiquitous language" of your domain
 
 .Motivation
-Terms from your domain appear in every epic, feature, or story. These terms should be clear to everyone involved. And that's why it is desirable to have a glossary of such terms for a project or product development. Make sure that everyone involved speaks a common language - and has access to agreed-upon definitions of terms instead of bringing new words into play in every meeting.
+Terms from your domain appear in every epic, feature, or story. These terms should be clear to everyone involved. And that's why it is desirable to have a glossary of such terms for a project or product development. 
+
+Make sure that everyone involved speaks a common language - and has access to agreed-upon definitions of terms instead of bringing new words into play in every meeting.
 
 .Notations/Tools
 Alphabetically ordered list of term definitions
@@ -18,10 +20,10 @@ Alphabetically ordered list of term definitions
 // https://docs.req42.de/section-xxx in the online documentation
 ****
 
-[cols="1,5" options="header"]
+[cols="12,50" options="header"]
 |===
 |Term |Definition
 | _<Term-1>_ |_<Definition-1>_  
-| _<Term-2>_ |_<Defintion-2>_  
+| _<Term-2>_ |_<Definition-2>_  
 |            |             
 |===
