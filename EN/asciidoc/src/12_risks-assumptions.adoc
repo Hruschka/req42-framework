@@ -7,7 +7,10 @@
 (Prioritized) lists of risks you have identified and a list of assumptions you have made as a basis for decisions.
 
 .Motivation
-"Risk management is project management for adults" says Tim Lister of the Atlantic Systems Guild".  With this in mind, you should keep your risks under control as a product owner.
+"Risk management is project management for adults" says Tim Lister of the Atlantic Systems Guild".  
+
+With this in mind, you should keep your risks under control as a product owner.
+
 req42 provides you with the means to consciously manage risks. Especially when prioritizing your requirements you should balance business value and risk reduction.
 
 .Notations/Tools
