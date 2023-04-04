@@ -4,17 +4,24 @@
 [role="req42help"]
 ****
 .Content
-An ordered list of product backlog items (at different levels of granularity: e.g. epics, features and user stories). Backlog items should be prioritized (better term: ranked) among each other. The items with the greatest added value in terms of implementation effort should be at the top of the backlog to be implemented next. You have to define explicitly what added value means for you and your development. The simplest definition is the business added value for the customer when implementing the requirement.
+An ordered list of product backlog items (at different levels of granularity: e.g. epics, features and user stories). Backlog items should be prioritized (better term: ranked) among each other.
+
+The items with the greatest added value in terms of implementation effort should be at the top of the backlog to be implemented next.
+ 
+You have to define explicitly what added value means for you and your development. The simplest definition is the business added value for the customer when implementing the requirement.
 
 .Motivation
-The Scrum Guide [1] defines: "The Product Backlog is an ordered list of everything that is known to be included in the product. It serves as the single source of requirements for all changes to the product. The Product Owner is responsible for the Product Backlog, its contents, access to it, and the order of entries.
+The Scrum Guide defines: 
 
+"The Product Backlog is an ordered list of everything that is known to be included in the product. It serves as the single source of requirements for all changes to the product. The Product Owner is responsible for the Product Backlog, its contents, access to it, and the order of entries.
 A Product Backlog is never complete. During its initial development steps, it identifies the requirements that are initially known and best understood. The Product Backlog evolves with the product and its use. It is dynamic; it constantly adapts to make clear for the product what it needs to be adequate to its task, to compete, and to provide the required benefits."
+
 As long as a product exists, so does its Product Backlog.
 So you see: the Product Backlog is really important for successful work as a Product Owner. But please fill in the other artifacts as well. Your job may not start with the Product Backlog and it certainly doesn't end with the Product Backlog.
 
 .Notations/Tools
 Proven (regardless of granularity) for epics, features and user stories is the formula:
+
        As <role> I want <functionality> so that <advantage>.
 
 For the more abstract levels (epics, features), compound nouns may also be suitable for describing functionality.
