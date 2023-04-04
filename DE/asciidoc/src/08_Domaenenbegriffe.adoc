@@ -7,7 +7,9 @@
 Ein Glossar von fachlichen Begriffen mit Definitionen.
 
 .Motivation
-In jedem Epic, Feature oder Story kommen Begriffe aus Ihrer Domäne vor. Diese Begriffe sollten allen Beteiligten klar sein. Und deshalb ist es wünschenswert, für ein Projekt oder eine Produktentwicklung ein Glossar solcher Begriffe zu haben. Stellen Sie sicher, dass alle Beteiligten eine gemeinsame Sprache sprechen – und im Zweifelsfall Zugriff auf vereinbarte Begriffsdefinitionen haben, statt in jedem Meeting wieder neue Wörter ins Spiel zu bringen.
+In jedem Epic, Feature oder Story kommen Begriffe aus Ihrer Domäne vor. Diese Begriffe sollten allen Beteiligten klar sein. Und deshalb ist es wünschenswert, für ein Projekt oder eine Produktentwicklung ein Glossar solcher Begriffe zu haben. 
+
+Stellen Sie sicher, dass alle Beteiligten eine gemeinsame Sprache sprechen – und im Zweifelsfall Zugriff auf vereinbarte Begriffsdefinitionen haben, statt in jedem Meeting wieder neue Wörter ins Spiel zu bringen.
 
 .Notationen/Tools
 Alphabetisch geordnete Liste von Begriffsdefinitionen
