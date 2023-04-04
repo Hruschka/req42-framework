@@ -4,11 +4,13 @@
 [role="req42help"]
 ****
 .Content
-"Delivery objects put on the timeline" - who delivers what and when?
+"Delivery artifacts put on the timeline" - who delivers what and when?
 
 .Motivation
 Agile projects also need a plan. The more distant a goal is, the less precise the plan can be. The closer, the more precise.
+
 An explicitly known roadmap enables all participants to coordinate with each other and to think along with each other, and therefore to take into account what is still to come in the medium term when making short-term decisions.
+
 If you only live from hand to mouth, you may unknowingly make short-term decisions that are contrary to longer-term product success. In our courses we show you how rough or fine a roadmap can, may or should be.
 
 .Notations/Tools
@@ -20,6 +22,6 @@ Whatever you have in use as a planning tool or which allows you to present, if p
 // https://docs.req42.de/section-xxx in the online documentation.
 ****
 
-<< Insert planning here>>
+_< Insert your planning here>_
 
 
