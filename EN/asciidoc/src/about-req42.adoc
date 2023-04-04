@@ -4,7 +4,7 @@
 
 :numbered!:
 
-**Über req42**
+**About req42**
 
 [role="lead"]
 req42, the framework for collecting, documenting and communicating requirements.
