@@ -31,8 +31,13 @@ Simple modeling tools like Gliffy, Diagrams.Net (formerly DrawIO), ......, or DS
 ****
 
 _<Diagram Title 1:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
+
 _<Diagram Title 2:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
+
 _<Diagram Title 3:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
 
-….
+ . 
+ .
+ . 
+
 _<Diagram Title n:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
