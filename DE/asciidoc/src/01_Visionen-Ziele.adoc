@@ -7,19 +7,28 @@
 Die Business-Ziele Ihrer Produktentwicklung bzw. Ihres Projekts. Stakeholder-verständlich und transparent.
 
 .Motivation
-Die Ziele müssen so weit präzisiert und abgestimmt werden, dass alle Beteiligten eine klare Vorstellung davon haben, was in welchen Zeiträumen erreicht werden soll. Die Festlegung von Visionen und Zielen leitet das Team bei der Ausarbeitung der detaillierten Anforderungen und vermeidet Verzettelung.
+Die Ziele müssen so weit präzisiert und abgestimmt werden, dass alle Beteiligten eine klare Vorstellung davon haben, was in welchen Zeiträumen erreicht werden soll. 
+
+Die Festlegung von Visionen und Zielen leitet das Team bei der Ausarbeitung der detaillierten Anforderungen und vermeidet Verzettelung.
+
 Vielleicht haben Ihnen Ihre Auftraggeber grobe Ziele oder eine Vision mitgegeben, als man Sie mit der Rolle des Product Owners betraut hat. Oft reicht jedoch die Präzision dieser Vorgaben nicht aus, um ein Team systematisch zum Erfolg zu führen.
+
 Für uns gilt: Ziele sind Anforderungen! Oder präziser: Ziele sind die Anforderungen, die sich hoffentlich in dem Zeitraum, für den sie definiert werden, stabil bleiben.
 
 .Form
 Zur Definition von Zielen stehen Ihnen verschiedenste Ausdrucksmittel zur Verfügung, die Sie nach Lust und Laune wählen können. 
+
 Unsere Empfehlung:
-* Notation in Form von PAM (Purpose, Advantage, Metric) 
+
+* Notation in Form von PAM (Purpose, Advantage, Metric)
+
 Alternative Notationsformen:
+
 * Produktkoffer
 * News from the Future
 * Product Canvas
 * Value Proposition
+
 Nur eines sollten Sie nie machen: Ohne explizite Ziele oder Visionen zu arbeiten.
 
 // .Weiterführende Informationen
@@ -30,14 +39,20 @@ Nur eines sollten Sie nie machen: Ohne explizite Ziele oder Visionen zu arbeiten
 Zieldefinitionen nach PAM:
 
 Ziel 1:
+
 Vorteil 1:
+
 Metrik 1: 
 
 Ziel 2:
+
 Vorteil 2:
+
 Metrik 2: 
 
 Ziel 3:
+
 Vorteil 3:
+
 Metrik 3: 
 
