@@ -4,10 +4,13 @@
 [role="req42help"]
 ****
 .Content
-This section can be omitted for small product developments with only one development team, since the team members are already listed in the previous section.  For scaled large products, the organization chart of your teams should be here and an assignment to the topics (e.g. epics, features, ...) this team is responsible for.
+This section can be omitted for small product developments with only one development team, since the team members are already listed in the previous section.  
+
+For scaled large products, the organization chart of your teams should be here and an assignment to the topics (e.g. epics, features, ...) this team is responsible for.
 
 .Motivation
-If you have more than one team at your disposal, it goes without saying that you should have an overview of who works in which (sub-)team and how these teams are organized. 
+If you have more than one team at your disposal, it goes without saying that you should have an overview of who works in which (sub-)team and how these teams are organized.
+ 
 The focus should be on (sub-)teams being organized in such a way that they can deliver functions/features or partial products as independently as possible without having to constantly coordinate with everyone else. 
 
 .Notations/Tools
