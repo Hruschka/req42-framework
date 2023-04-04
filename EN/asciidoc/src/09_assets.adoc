@@ -5,10 +5,12 @@
 ****
 .Content
 Under assets we summarize everything that your sponsors or clients give you to enable you as a product owner (together with your team) to do your job successfully.
-ssets definitely include time and budget, i.e., resources they give you to do your job. You may have to get your team with these resources yourself, or they may also provide you with staff (your team), workspace, infrastructure, etc.
+
+Assets definitely include time and budget, i.e., resources they give you to do your job. You may have to get your team with these resources yourself, or they may also provide you with staff (your team), workspace, infrastructure, etc.
 
 .Motivation
 If you take on the job as a product owner you have to negotiate these assets with your sponsor or client and certainly in the end also account for their use (through hopefully successful results).
+
 In any case, you should know what you have at your disposal in terms of money, personnel, time, infrastructure, ... at your disposal. These assets are an essential boundary condition for your work as a product owner.
 
 .Notations/Tools
@@ -20,12 +22,12 @@ Simple lists or tables
 
 ****
 
-=== 9.1 Budget: 
+=== 9.1 Budget 
 (possibly structured according to roadmap or intermediate goals, or divided into personnel budget, material budget, ...)
 
-=== 9.2 Time frame/final date:
+=== 9.2 Time frame/final date
 
-=== 9.3 Team members: 
+=== 9.3 Team members 
 (simple enumeration of team members for small team.  Or a link to complex team structure in section 10).
 
-=== 9.4 External resources:
+=== 9.4 External resources
