@@ -7,8 +7,10 @@
 (Priorisierte) Listen von Risiken, die Sie erkannt haben und eine Liste von Annahmen, die Sie als Grundlage für Entscheidungen getroffen haben.
 
 .Motivation
-„Risikomanagement ist Projektmanagement für Erwachsene“  sagt Tim Lister von der Atlantic Systems Guild“.  In diesem Sinne sollten Sie Ihre Risiken als Product Owner im Griff halten.
-req42 gibt Ihnen die Mittel an die Hand, Risiken bewusst zu managen. Insbesondere beim Priorisierung Ihrer Anforderungen sollten Sie ausgewogen zwischen Business Value und Risk Reduction abwägen.
+„Risikomanagement ist Projektmanagement für Erwachsene“ sagt Tim Lister von der Atlantic Systems Guild“. 
+In diesem Sinne sollten Sie Ihre Risiken als Product Owner im Griff halten.
+
+req42 gibt Ihnen die Mittel an die Hand, Risiken bewusst zu managen. Insbesondere beim Priorisieren Ihrer Anforderungen sollten Sie ausgewogen zwischen Business Value und Risk Reduction abwägen.
 
 .Notationen/Tools
 Einfache Tabellen oder Listen reichen oft bereits aus.
@@ -20,17 +22,17 @@ Einfache Tabellen oder Listen reichen oft bereits aus.
 ****
 
 === 12.1. Risiken
-[cols="1,3,1,1,3" options="header"]
+[cols="1,5,1,1,5" options="header"]
 |===
-| Nr.   | Text         |Wahrscheinlichkeit |Schadenshöhe | Evtl. Maßnahmen
-| _<1>_ | _<Risiko-1>_ | _<%-1>_           | _<Höhe-1>_  | _<Maßnahme-1>_
-| _<2>_ | _<Risiko-2>_ | _<%-2>_           | _<Höhe-2>_  | _<Maßnahme-1>_
+| Nr.   | Text         |Wahrschein-lichkeit |Schadens-höhe | Evtl. Maßnahmen
+| _1_ | _<Risiko-1>_ | _<%-1>_           | _<Höhe-1>_  | _<Maßnahme-1>_
+| _2_ | _<Risiko-2>_ | _<%-2>_           | _<Höhe-2>_  | _<Maßnahme-1>_
 |===
 
 === 12.2. Annahmen
-[cols="1,5" options="header"]
+[cols="1,10" options="header"]
 |===
 |Nr.    | Text 
-| _<1>_ | _<Annahme-1>_ 
-| _<2>_ | _<Annahme-2>_ 
+| _1_ | _<Annahme-1>_ 
+| _2_ | _<Annahme-2>_ 
 |===
