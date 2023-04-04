@@ -19,11 +19,16 @@ Simple lists, possibly organized by category.
 ****
 
 === 7.1 Organizational Constraints
-*   
-*   
-* 
+*  _<OrgConstraint1>_
+
+*  _<OrgConstraint2>_
+
+* _<OrgContraint3>_
 
 === 7.2 Technical Constraints
-*   
-*   
-*   
+
+*   _<TechConstraint1>_
+
+*  _<TechConstraint2>_
+
+* _<TechContraint3>_
