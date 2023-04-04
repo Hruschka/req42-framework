@@ -15,6 +15,7 @@ Read more about this indispensable topic in the blog post "Scope is not equal to
 
 .Notations/Tools
 There are many different means of expression for representing scope delineation, but a good scope delineation makes the interfaces to the context explicit (e.g., in terms of inputs and outputs, of services provided and required, ...).
+
 * Various forms of context diagrams 
 * Context chart
 
