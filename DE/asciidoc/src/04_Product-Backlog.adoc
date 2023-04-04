@@ -7,16 +7,23 @@
 Eine geordnete Liste von Product Backlog Items (auf verschiedenem Granularitätsstufen: z.B. Epics, Features und User Storys.) Backlog-Items sollen untereinander priorisiert (besserer Ausdruck: geranked) sein. Die Items mit dem größten Mehrwert bezogen auf den Umsetzungsaufwand sollten sich entsprechend oben im Backlog wiederfinden, um als nächstes umgesetzt zu werden. Was Mehrwert für Sie und Ihre Entwicklung bedeutet müssen Sie explizit festlegen. Die einfachste Ausprägung ist der Business Mehrwert für den Kunden bei Umsetzung der Anforderung.
 
 .Motivation
-Der Scrum Guide [1] definiert: „Das Product Backlog ist eine geordnete Liste von allem, von dem bekannt ist, dass es im Produkt enthalten sein soll. Es dient die einzige Anforderungsquelle für alle Änderungen am Produkt. Der Product Owner ist für das Product Backlog, seine Inhalte, den Zugriff darauf und die Reihenfolge der Einträge verantwortlich.
-Ein Product Backlog ist niemals vollständig. Während seiner ersten Entwicklungsschritte zeigt es die anfangs bekannten und am besten verstandenen Anforderungen auf. Das Product Backlog entwickelt sich mit dem Produkt und dessen Einsatz weiter. Es ist dynamisch; es passt sich konstant an, um für das Produkt klar herauszustellen, was es braucht, um seiner Aufgabe angemessen zu sein, im Wettbewerb zu bestehen und den erforderlichen Nutzen zu bieten.“ 
+Der Scrum Guide definiert: 
+
+„Das Product Backlog ist eine geordnete Liste von allem, von dem bekannt ist, dass es im Produkt enthalten sein soll. Es dient die einzige Anforderungsquelle für alle Änderungen am Produkt. Der Product Owner ist für das Product Backlog, seine Inhalte, den Zugriff darauf und die Reihenfolge der Einträge verantwortlich.
+Ein Product Backlog ist niemals vollständig. Während seiner ersten Entwicklungsschritte zeigt es die anfangs bekannten und am besten verstandenen Anforderungen auf. Das Product Backlog entwickelt sich mit dem Produkt und dessen Einsatz weiter. Es ist dynamisch; es passt sich konstant an, um für das Produkt klar herauszustellen, was es braucht, um seiner Aufgabe angemessen zu sein, im Wettbewerb zu bestehen und den erforderlichen Nutzen zu bieten.“
+
 Solange ein Produkt existiert, existiert auch sein Product Backlog.
 Sie sehen also: das Product Backlog ist wirklich wichtig für die erfolgreiche Arbeit als Product Owner. Aber bitte füllen sie auch die anderen Artefakt. Ihr Job fängt vielleicht nicht mit dem Product Backlog an und hört sicherlich nicht mit dem Product Backlog auf.
 
 .Notationen/Tools
 Bewährt hat sich (unabhängig von der Granularität) für Epics, Features und User-Storys die Formel:
-Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>>.
+
+Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_.
+
 Für die abstrakteren Ebenen (Epics, Features) eignen sich unter Umständen auch zusammengesetzte Substantive zum Beschreiben der Funktionalität.
+
 Nutzen Sie ALM Tools bzw. Ticket-Systeme (JIRA oder Azure DevOps) oder Wikis (wie Confluence), um Ihre Epics, Features und Storys (verlinkt und geordnet) zu verwalten.
+
 Besonders bewährt hat sich eine zweidimensionale Darstellung des Product Backlogs in Form einer Story-Map.
 
 // .Weiterführende Informationen
