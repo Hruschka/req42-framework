@@ -13,9 +13,9 @@ The focus should be on (sub-)teams being organized in such a way that they can d
 .Notations/Tools
 Lists of teams (each with assigned people and assigned topics from the roadmap or from the product backlog (e.g., epics or features).
 
-.More Information
-
-Siehe https://docs.arc42.org/section-10/[Qualitätsanforderungen] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 
 ****
 

@@ -14,12 +14,12 @@ Wenn Sie nur von der Hand in den Mund leben, treffen Sie unter Umständen unwiss
 .Notationen/Tools
 Was auch immer Sie als Planungswerkzeug im Einsatz haben oder was Ihnen erlaubt, möglichst auf einer Seite einen entsprechenden Überblick über einen längeren Zeitraum darzustellen.
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-10/[Qualitätsanforderungen] in der online-Dokumentation (auf Englisch!).
+//.Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
 
-<< Hier Planung einfügen>>
+_< Hier Planung einfügen >_
 
 

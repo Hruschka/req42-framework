@@ -19,33 +19,33 @@ Für die abstrakteren Ebenen (Epics, Features) eignen sich unter Umständen auch
 Nutzen Sie ALM Tools bzw. Ticket-Systeme (JIRA oder Azure DevOps) oder Wikis (wie Confluence), um Ihre Epics, Features und Storys (verlinkt und geordnet) zu verwalten.
 Besonders bewährt hat sich eine zweidimensionale Darstellung des Product Backlogs in Form einer Story-Map.
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-5/[Bausteinsicht] in der online-Dokumentation (auf Englisch!).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 ****
 
 
 
-EPIC 1:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+EPIC 1:  Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-FEATURE  1.1:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+FEATURE  1.1:  Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-STORY 1.1.1.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+STORY 1.1.1.: Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-STORY 1.1.x.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+STORY 1.1.x.: Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-EPIC 2:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+EPIC 2:  Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-FEATURE  2.1:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+FEATURE  2.1:  Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-STORY 2.1.1.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+STORY 2.1.1.: Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-STORY 2.1.2: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+STORY 2.1.2: Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-FEATURE  2.2:   Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+FEATURE  2.2:  Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-STORY 2.2.1.: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+STORY 2.2.1.: Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-STORY 2.2.2: Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+STORY 2.2.2: Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.
 
-EPIC 3:  Als <<Rolle>> möchte ich <<Funktionalität>> damit <<Vorteil>> <<optional. Link zu Modellen>>.
+EPIC 3:  Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.

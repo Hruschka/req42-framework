@@ -15,22 +15,22 @@ Für diese Tätigkeit stehen Ihnen industrie-erprobten Checklisten (wie ISO 2501
 Einfache textuelle Szenarien, evtl. nach den Kapiteln des ISO 25010 Qualitätsbaums oder nach VOLERE gegliedert.
 
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-8/[Querschnittliche Konzepte] in der online-Dokumentation (auf Englisch).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch).
 
 ****
 
-<<Text Qualitätsanforderungen bzw. -Szenario 1>> :
-<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
+_<Text Qualitätsanforderungen bzw. -Szenario 1>_ :
+_<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_
 
-<<Text Qualitätsanforderungen bzw. -Szenario 2>>:
-<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
+_<Text Qualitätsanforderungen bzw. -Szenario 2>_ :
+_<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_
 
-<<Text Qualitätsanforderungen bzw. -Szenario 3>>:
-<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
+_<Text Qualitätsanforderungen bzw. -Szenario 3>_ :
+_<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_
 .....
 .....
 .....
-<<Text Qualitätsanforderungen bzw. -Szenario n>>:
-<<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>>
+_<Text Qualitätsanforderungen bzw. -Szenario n>_ :
+_<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_

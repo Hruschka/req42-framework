@@ -22,9 +22,9 @@ Alternative Notationsformen:
 * Value Proposition
 Nur eines sollten Sie nie machen: Ohne explizite Ziele oder Visionen zu arbeiten.
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-1/[Anforderungen und Ziele] in der online-Dokumentation (auf Englisch!).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-1/[Anforderungen und Ziele] in der online-Dokumentation (auf Englisch!).
 ****
 
 Zieldefinitionen nach PAM:

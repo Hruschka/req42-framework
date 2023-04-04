@@ -15,9 +15,9 @@ If you only live from hand to mouth, you may unknowingly make short-term decisio
 Whatever you have in use as a planning tool or which allows you to present, if possible on one page, an appropriate overview over a longer period of time.
 
 
-.More Information
-
-Siehe https://docs.arc42.org/section-11/[Risiken und technische Schulden] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation.
 ****
 
 << Insert planning here>>

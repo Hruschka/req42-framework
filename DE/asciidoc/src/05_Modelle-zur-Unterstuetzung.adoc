@@ -23,18 +23,18 @@ Keine Angst: diese Modelle müssen nicht perfekt sein. Aber insbesondere mir anw
 
 Einfache Modellierungstools wie Gliffy, Diagrams.Net (früher DrawIO), ......, oder DSLs wie PlantUML, Kroki, ... oder UML-Modellierungstools wie Enterprise Architect, Visual Paradigm, MagicDraw eignen sich zum Erstellen der Modelle. Die Modelle sollten mit Ihren Backlog-Items verlinkt sein (in beide Richtungen)
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-7/[Verteilungssicht] in der online-Dokumentation (auf Englisch!).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
 
-<<Diagrammtitel 1:>>. <<hier Diagramm und evtl. Erläuterungen einfügen>> <<optional: Link zu Epics, Features oder Storys>>
+_<Diagrammtitel 1:>_. _<hier Diagramm und evtl. Erläuterungen einfügen>_ _<optional: Link zu Epics, Features oder Storys>_
 
-<<Diagrammtitel 2:>>. <<hier Diagramm und evtl. Erläuterungen einfügen>> <<optional: Link zu Epics, Features oder Storys>>
+_<Diagrammtitel 2:>_. _<hier Diagramm und evtl. Erläuterungen einfügen>_ _<optional: Link zu Epics, Features oder Storys>_
 
-<<Diagrammtitel 3:>>. <<hier Diagramm und evtl. Erläuterungen einfügen>> <<optional: Link zu Epics, Features oder Storys>> 
+_<Diagrammtitel 3:>_. _<hier Diagramm und evtl. Erläuterungen einfügen>_ _<optional: Link zu Epics, Features oder Storys>_
 
 ....
 
-<<Diagrammtitel n:>>. <<hier Diagramm und evtl. Erläuterungen einfügen>> <<optional: Link zu Epics, Features oder Storys>> 
+_<Diagrammtitel n:>_. _<hier Diagramm und evtl. Erläuterungen einfügen>_ _<optional: Link zu Epics, Features oder Storys>_

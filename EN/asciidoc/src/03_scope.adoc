@@ -18,9 +18,9 @@ There are many different means of expression for representing scope delineation,
 * Various forms of context diagrams 
 * Context chart
 
-.More Information
-
-Siehe https://docs.arc42.org/section-3/[Kontextabgrenzung] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 
 ****
 
@@ -30,8 +30,8 @@ Optional: add table with explanations of interfaces:
 
 [cols="1,5" options="header"]
 |===
-|Interface Name |Meaning/Explanation 
-| _<IF-1>_ |_<Meaning-1>_  
-| _<IF-2>_ |_<Meaning-2>_  
-|            |             
+| Interface Name | Meaning/Explanation 
+| _<IF-1>_       |_<Meaning-1>_  
+| _<IF-2>_       |_<Meaning-2>_  
+|                |             
 |===

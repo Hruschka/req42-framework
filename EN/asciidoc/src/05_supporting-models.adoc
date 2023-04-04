@@ -25,13 +25,14 @@ Don't worry: these models don't have to be perfect. But especially with increasi
 
 Simple modeling tools like Gliffy, Diagrams.Net (formerly DrawIO), ......, or DSLs like PlantUML, Kroki, ... or UML modeling tools like Enterprise Architect, Visual Paradigm, MagicDraw are suitable for creating the models. The models should be linked to your backlog items (in both directions)
 
-.More Information
-
-Siehe https://docs.arc42.org/section-5/[Bausteinsicht] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 ****
 
-<<Diagram Title 1:>>. <<insert diagram and explanations here >> <<optional: Link to Epics, Features or Stories>> 
-<<Diagram Title 12>>. <<insert diagram and explanations here >> <<optional: Link to Epics, Features or Stories>> 
-<<Diagram Title 3:>>. <<insert diagram and explanations here >> <<optional: Link to Epics, Features or Stories>> 
+_<Diagram Title 1:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
+_<Diagram Title 2:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
+_<Diagram Title 3:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
+
 ….
-<<Diagram Title n:>>. <<insert diagram and explanations here >> <<optional: Link to Epics, Features or Stories>> 
+_<Diagram Title n:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 

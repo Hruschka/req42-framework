@@ -13,9 +13,9 @@ req42 provides you with the means to consciously manage risks. Especially when p
 .Notations/Tools
 Simple tables or lists are often already sufficient.
 
-.More Information
-
-Siehe https://docs.arc42.org/section-12/[Glossar] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 
 ****
 

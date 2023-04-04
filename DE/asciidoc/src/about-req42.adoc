@@ -11,7 +11,7 @@ req42, das Framework zur Sammlung, Dokumentation und Kommunikation von Anforderu
 
 Erstellt von Dr. Peter Hruschka, Markus Meuten und Mitwirkenden.
 
-Template Revision: 2.0 DE (asciidoc-based), August 2022
+Template Revision: 2.0 DE (asciidoc-based), MÄRZ 2023
 
 (C)
 We acknowledge that this document uses material from the req42 architecture framework, https://req42.de

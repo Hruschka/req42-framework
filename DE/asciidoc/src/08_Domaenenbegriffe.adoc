@@ -12,15 +12,15 @@ In jedem Epic, Feature oder Story kommen Begriffe aus Ihrer Domäne vor. Diese B
 .Notationen/Tools
 Alphabetisch geordnete Liste von Begriffsdefinitionen
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-6/[Laufzeitsicht] in der online-Dokumentation (auf Englisch!).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
 
 [cols="1,3" options="header"]
 |===
-|Bedeutung |Erläuterung 
+|Bedeutung      | Erläuterung 
 | _<Begriff-1>_ | _<Erläuterung-1>_ 
 | _<Begriff-2>_ | _<Erläuterung-2>_ 
 |===

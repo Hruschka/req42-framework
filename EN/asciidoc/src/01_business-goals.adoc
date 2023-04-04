@@ -25,9 +25,9 @@ Alternative forms of notation:
 
 There is only one thing you should never do: Work without explicit goals or visions.
 
-.More Information
-
-Siehe https://docs.arc42.org/section-1/[Anforderungen und Ziele] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 
 ****
 

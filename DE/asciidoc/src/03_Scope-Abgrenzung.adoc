@@ -16,9 +16,9 @@ Zur Darstellung der Scope-Abgrenzung gibt es viele verschiedene Ausdrucksmittel,
 * Diverse Formen von Kontextdiagrammen 
 * Kontexttabelle
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-4/[Lösungsstrategie] in der online-Dokumentation (auf Englisch!).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section--xxx in der online-Dokumentation (auf Englisch!).
 
 ****
 

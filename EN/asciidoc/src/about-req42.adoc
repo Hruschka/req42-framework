@@ -11,7 +11,7 @@ req42, the framework for collecting, documenting and communicating requirements.
 
 Created and maintained by Dr. Peter Hruschka, Markus Meuten and contributors.
 
-Template Revision: 1.1 DE (based on asciidoc), May 2022
+Template Revision: 2.0 EN (based on asciidoc), March 2023
 
 (C)
 We acknowledge that this document uses material from the req42 framework, https://req42.de

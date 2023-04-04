@@ -13,9 +13,9 @@ Some quality requirements (such as response times) can perhaps be integrated dir
 .Notations/Tools
 Simple textual scenarios, possibly structured according to the chapters of the ISO 25010 quality tree or according to VOLERE.
 
-.More Information
-
-Siehe https://docs.arc42.org/section-6/[Laufzeitsicht] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 
 ****
 

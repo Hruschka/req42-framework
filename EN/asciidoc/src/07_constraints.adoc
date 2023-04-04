@@ -12,9 +12,9 @@ Such constraints are also requirements. And since they often apply to several or
 .Form
 Simple lists, possibly organized by category.
 
-.More Information
-
-Siehe https://docs.arc42.org/section-7/[Verteilungssicht] in der online-Dokumentation (auf Englisch!).
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 
 ****
 

@@ -12,10 +12,9 @@ Auch solche Randbedingungen sind Anforderungen. Und da sie oft für mehrere oder
 .Notationen/Tools
 Einfache Listen, evtl. nach Kategorien geordnet.
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-9/[Architekturentscheidungen] in der arc42 Dokumentation (auf Englisch!).
-Dort finden Sie Links und Beispiele zum Thema ADR.
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der req42-Dokumentation (auf Englisch!).
 
 ****
 

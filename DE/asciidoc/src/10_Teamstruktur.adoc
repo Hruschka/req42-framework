@@ -18,12 +18,12 @@ Listen von Teams (jeweils mit zugewiesenen Personen und zugewiesenen Themen aus 
 
 [cols="1,2,2" options="header"]
 |===
-|Team |Team-Mitglied |Themen
-|<<Team-1>> |PO: <<Name>> | <<Teilprodukt-A>>
-|           |<<Team-Member-1>>  |  
-|           |                   |      
-|  <<Team-2>> | PO: <<Name>> | <<Teilprodukt-B>> 
-|           |<<Team-Member-1>>  |  
-|           |<<Team-Member-2>>  |
-|           |                   |   
+| Team       | Team-Mitglied      | Themen
+| _<Team-1>_ | PO: _<Name>_       | _<Teilprodukt-A>_
+|            | _<Team-Member-1>_  |  
+|            |                    |      
+| _<Team-2>_ | PO: _<Name>_       | _<Teilprodukt-B>_ 
+|            | _<Team-Member-1>_  |  
+|            | _<Team-Member-2>_  |
+|           |                     |   
 |===

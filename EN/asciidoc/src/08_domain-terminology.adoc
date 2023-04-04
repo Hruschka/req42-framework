@@ -13,10 +13,9 @@ Terms from your domain appear in every epic, feature, or story. These terms shou
 Alphabetically ordered list of term definitions
 
 
-.More Information
-
-Siehe https://docs.arc42.org/section-8/[Querschnittliche Konzepte] in der online-Dokumentation (auf Englisch).
-
+// .More Information
+//
+// https://docs.req42.de/section-xxx in the online documentation
 ****
 
 [cols="1,5" options="header"]

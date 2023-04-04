@@ -16,9 +16,9 @@ Auf jeden Fall sollten Sie wissen, was Ihnen an Geld, Personal, Zeit, Infrastruk
 Einfache Listen, Tabellen
 
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-2/[Randbedingungen] in der online-Dokumentation (auf Englisch!).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
 

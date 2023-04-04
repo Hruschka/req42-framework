@@ -17,9 +17,9 @@ Nachfolgend haben wir als Beispiel eine einfache Stakeholder-Liste eingefügt.
 Die Reihenfolge "Rolle vor Person" ist bewusst gewählt. Diese Reihenfolge hat sich bewährt da Anforderungen normalerweise immer Bedarfe aus Sicht einer Rolle darstellen, die Person, welche die Rolle einnimmt während des Projektes aber durchaus wechseln kann. 
 Sie können bei Bedarf auch gerne weitere Spalten hinzufügen (Kontaktdaten, …) – bedenken Sie aber den Aufwand für deren Pflege.
 
-.Weiterführende Informationen
-
-Siehe https://docs.arc42.org/section-3/[Kontextabgrenzung] in der online-Dokumentation (auf Englisch!).
+// .Weiterführende Informationen
+// 
+// Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
 
