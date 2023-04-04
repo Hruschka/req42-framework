@@ -7,7 +7,8 @@
 Technologische oder organisatorische Randbedingungen, bzw. Randbedingungen für den Entwicklungsprozess, wie verpflichtende Tätigkeiten, vorgeschriebene Dokumente und deren Inhalt, einzuhaltenden Meilensteine, ...
 
 .Motivation
-Auch solche Randbedingungen sind Anforderungen. Und da sie oft für mehrere oder sogar alle funktionalen Anforderungen gelten, sind sie schwer in dem geordneten Product Backlog unterzubringen. Stellen Sie einfach sicher, dass alle Beteiligten diese Randbedingungen kennen und bei Bedarf Zugriff dazu haben.
+Auch solche Randbedingungen sind Anforderungen. Und da sie oft für mehrere oder sogar alle funktionalen Anforderungen gelten, sind sie schwer in dem geordneten Product Backlog unterzubringen. 
+Stellen Sie einfach sicher, dass alle Beteiligten diese Randbedingungen kennen und bei Bedarf Zugriff dazu haben.
 
 .Notationen/Tools
 Einfache Listen, evtl. nach Kategorien geordnet.
