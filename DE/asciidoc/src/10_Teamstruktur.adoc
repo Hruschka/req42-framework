@@ -9,6 +9,7 @@ Bei kleinen Produktentwicklungen mit nur einem Entwicklungsteam kann dieser Absc
 
 .Motivation
 Wenn Sie über mehrere Teams verfügen, ist es selbstverständlich, dass Sie einen Überblick darüber haben, wer in welchem (Sub-)Team arbeitet und wie diese Teams organisiert sind. 
+
 Der Fokus sollte darauf liegen, dass die (Teil-)Teams so organisiert sind, dass sie möglichst selbstständig Funktionen/Features oder Teilprodukte liefern können, ohne sich ständig mit allen anderen abstimmen zu müssen. 
 
 .Notationen/Tools
