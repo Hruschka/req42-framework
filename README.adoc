@@ -6,7 +6,7 @@
 req42 - the framework for effective, practical and pragmatic requirements
 documentation and communication.
 
-Initially created by Dr. Peter Hruschkaand Markus Meuten,
+Initially created by Dr. Peter Hruschka and Markus Meuten,
 free and open source.
 
 
