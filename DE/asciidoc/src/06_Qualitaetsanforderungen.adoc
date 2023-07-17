@@ -34,8 +34,8 @@ _<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_
 
 _<Text Qualitätsanforderungen bzw. -Szenario 3>_ :
 _<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_
-.....
-.....
-.....
+ .
+ .
+ .
 _<Text Qualitätsanforderungen bzw. -Szenario n>_ :
 _<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_
