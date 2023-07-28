@@ -1,5 +1,5 @@
 [[section-Scope-Abgrenzung]]
-== Scope-Abgrezung
+== Scope-Abgrenzung
 
 [role="req42help"]
 ****
