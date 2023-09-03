@@ -3,11 +3,11 @@
 //
 // ====================================
 
-= image:arc42-logo.png[req42] Framework
+= image:REQ42-logo.png[req42] Framework
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Inhaltsverzeichnis
 
-//additional style for arc42 help callouts
+//additional style for req42 help callouts
 ifdef::backend-html5[]
 ++++
 <style>
