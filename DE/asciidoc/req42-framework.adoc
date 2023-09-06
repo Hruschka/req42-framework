@@ -3,7 +3,9 @@
 //
 // ====================================
 
+
 = image:REQ42-logo.png[req42] Framework
+
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Inhaltsverzeichnis
 
