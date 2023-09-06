@@ -16,7 +16,7 @@ source of the req42 framework.
 
 It is used to:
 
-*  generate (by the https://github.com/req42/req42-generator[req42-generator] project) the official download formats (i.e. docx, markdown, docbook and others).
+* generate (by the https://github.com/req42/req42-generator[req42-generator] project) the official download formats (i.e. docx, markdown, docbook and others).
 * maintain structure, content and help for the framework
 * keep non-asciidoc, non-generable formats (like Sparx(R) Enterprise-Architect(R) EAP).
 
@@ -29,7 +29,7 @@ Please refer to the https://req42.de/download[official download page] for all do
 
 == Languages
 
-The EN and DE versions are actively maintained by the founders (P.Hruschka, M. Meuten).
+The EN and DE versions are actively maintained by the founders (P. Hruschka, M. Meuten).
 Translations to additional languages can be been provided by volunteers, but won't be automatically updated.
 
 == Build the HTML version 
