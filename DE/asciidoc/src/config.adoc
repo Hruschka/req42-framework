@@ -1,6 +1,8 @@
 // asciidoc settings for DE (German)
 // ==================================
-// toc-title definition MUST follow document title without blank line!
+// toc-title definition MUST appear in the document header which ends after the
+// first blank line following the document title
+// https://discuss.asciidoctor.org/toc-title-Attribute-has-no-effect-tp1787p1797.html
 :toc-title: Inhaltsverzeichnis
 
 // enable table-of-contents
