@@ -22,12 +22,12 @@ Simple lists or tables
 
 ****
 
-=== 9.1 Budget 
+=== Budget
 (possibly structured according to roadmap or intermediate goals, or divided into personnel budget, material budget, ...)
 
-=== 9.2 Time frame/final date
+=== Time frame/final date
 
-=== 9.3 Team members 
+=== Team members
 (simple enumeration of team members for small team.  Or a link to complex team structure in section 10).
 
-=== 9.4 External resources
+=== External resources

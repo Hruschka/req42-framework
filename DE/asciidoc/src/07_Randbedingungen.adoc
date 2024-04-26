@@ -19,12 +19,12 @@ Einfache Listen, evtl. nach Kategorien geordnet.
 
 ****
 
-=== 7.1 Organisatorische Randbedingungen
+=== Organisatorische Randbedingungen
 *   
 *   
 * 
   
-=== 7.2 Technische Randbedingungen
+=== Technische Randbedingungen
 *   
 *   
 *   

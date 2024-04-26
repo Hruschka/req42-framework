@@ -21,7 +21,7 @@ Einfache Tabellen oder Listen reichen oft bereits aus.
 // Siehe https://req42.de/section-xxx] in der online-Dokumentation (auf Englisch!).
 ****
 
-=== 12.1. Risiken
+=== Risiken
 [cols="1,5,1,1,5" options="header"]
 |===
 | Nr.   | Text         |Wahrschein-lichkeit |Schadens-höhe | Evtl. Maßnahmen
@@ -29,7 +29,7 @@ Einfache Tabellen oder Listen reichen oft bereits aus.
 | _2_ | _<Risiko-2>_ | _<%-2>_           | _<Höhe-2>_  | _<Maßnahme-1>_
 |===
 
-=== 12.2. Annahmen
+=== Annahmen
 [cols="1,10" options="header"]
 |===
 |Nr.    | Text 
