@@ -3,11 +3,10 @@
 //
 // ====================================
 
+// configure DE settings for asciidoc
+include::src/config.adoc[]
 
 = image:REQ42-logo.png[req42] Framework
-
-// toc-title definition MUST follow document title without blank line!
-:toc-title: Inhaltsverzeichnis
 
 //additional style for req42 help callouts
 ifdef::backend-html5[]
@@ -23,10 +22,6 @@ ifdef::backend-html5[]
 </style>
 ++++
 endif::backend-html5[]
-
-// configure DE settings for asciidoc
-include::src/config.adoc[]
-
 
 include::src/about-req42.adoc[]
 
