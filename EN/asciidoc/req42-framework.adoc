@@ -78,4 +78,4 @@ include::src/10_teams.adoc[]
 include::src/11_roadmap.adoc[]
 
 <<<<
-include::src/12_risk-assumptions.adoc[]
+include::src/12_risks-assumptions.adoc[]
