@@ -16,7 +16,7 @@ source of the req42 framework.
 
 It is used to:
 
-* generate (by the https://github.com/req42/req42-generator[req42-generator] project) the official download formats (i.e. docx, markdown, docbook and others).
+* generate (by the https://github.com/arc42/arc42-generator[arc42-generator] project, also used for req42) the official download formats (i.e. docx, markdown, docbook and others).
 * maintain structure, content and help for the framework
 * keep non-asciidoc, non-generable formats (like Sparx(R) Enterprise-Architect(R) EAP).
 
