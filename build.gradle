@@ -3,7 +3,7 @@
 //
 
 plugins {
-    id 'org.asciidoctor.jvm.convert' version '3.3.0'
+    id 'org.asciidoctor.jvm.convert' version '4.0.4'
 }
 
 apply plugin: 'java'
