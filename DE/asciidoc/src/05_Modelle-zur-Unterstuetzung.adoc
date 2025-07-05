@@ -1,7 +1,7 @@
 [[section-Modelle-zur-Unterstuetzung]]
 == Modelle zur Unterstützung
 
-[role="re42help"]
+[role="req42help"]
 ****
 .Inhalt
 Jegliche Art von grafischen Modellen, die das Verständnis (von Zusammenhängen) von Backlog Items erleichtern. Die Diagramme sollten mit Items aus dem Product Backlog verlinkt sein.
