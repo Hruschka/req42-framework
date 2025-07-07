@@ -1,7 +1,7 @@
 [[section-domain-terminology]]
 == Domain Terminology
 
-[role="re42help"]
+[role="req42help"]
 ****
 .Content
 A glossary of technical terms with definitions. The "ubiquitous language" of your domain

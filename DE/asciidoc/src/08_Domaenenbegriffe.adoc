@@ -1,7 +1,7 @@
 [[section-Domaenenbegriffe]]
 == Domänenbegriffe
 
-[role="req4242help"]
+[role="req42help"]
 ****
 .Inhalt
 Ein Glossar von fachlichen Begriffen mit Definitionen.
