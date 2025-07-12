@@ -1,6 +1,7 @@
 [[section-Betriebsmittel-und-Personal]]
 == Betriebsmittel und Personal
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -23,6 +24,7 @@ Einfache Listen, Tabellen
 // Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
+endif::req42help[]
 
 === Budget
 (evtl. gegliedert nach Roadmap oder Zwischenzielen, bzw. aufgeteilt in Personalbudget, Sachbudget, ...)

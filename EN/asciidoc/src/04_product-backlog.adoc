@@ -1,6 +1,7 @@
 [[section-product-backlog]]
 == Product Backlog
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -35,6 +36,7 @@ A two-dimensional representation of the product backlog in the form of a story m
 // https://docs.req42.de/section-xxx in the online documentation
 
 ****
+endif::req42help[]
 
 EPIC 1: As _<role>_ I want _<functionality>_ so that _<advantage>_.
 _<optional: Link to models>_.

@@ -1,6 +1,7 @@
 [[section-domain-terminology]]
 == Domain Terminology
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -19,6 +20,7 @@ Alphabetically ordered list of term definitions
 //
 // https://docs.req42.de/section-xxx in the online documentation
 ****
+endif::req42help[]
 
 [cols="12,50" options="header"]
 |===

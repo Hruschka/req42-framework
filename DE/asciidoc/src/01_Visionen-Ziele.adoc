@@ -1,6 +1,7 @@
 [[section-Visionen-Ziele]]
 ==	Visionen und Ziele
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -35,6 +36,7 @@ Nur eines sollten Sie nie machen: Ohne explizite Ziele oder Visionen zu arbeiten
 // 
 // Siehe https://docs.req42.de/section-1/[Anforderungen und Ziele] in der online-Dokumentation (auf Englisch!).
 ****
+endif::req42help[]
 
 Zieldefinitionen nach PAM:
 

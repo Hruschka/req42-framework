@@ -1,6 +1,7 @@
 [[Roadmaps]]
 == Roadmaps
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -20,6 +21,7 @@ Was auch immer Sie als Planungswerkzeug im Einsatz haben oder was Ihnen erlaubt,
 // Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
+endif::req42help[]
 
 _< Hier Ihre Planung einfügen >_
 

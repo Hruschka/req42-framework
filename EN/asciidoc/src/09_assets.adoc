@@ -1,6 +1,7 @@
 [[section-assets]]
 == Assets
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -21,6 +22,7 @@ Simple lists or tables
 // https://docs.req42.de/section-xxx in the online documentation
 
 ****
+endif::req42help[]
 
 === Budget
 (possibly structured according to roadmap or intermediate goals, or divided into personnel budget, material budget, ...)

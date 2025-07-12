@@ -1,6 +1,7 @@
 [[section-Risiken-und-Annahmen]]
 == Risiken und Annahmen
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -20,6 +21,7 @@ Einfache Tabellen oder Listen reichen oft bereits aus.
 // 
 // Siehe https://req42.de/section-xxx] in der online-Dokumentation (auf Englisch!).
 ****
+endif::req42help[]
 
 === Risiken
 [cols="1,5,1,1,5" options="header"]

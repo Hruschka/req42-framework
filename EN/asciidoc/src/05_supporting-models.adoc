@@ -1,6 +1,7 @@
 [[section-suppporting-models]]
 == Supporting Models
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -29,6 +30,7 @@ Simple modeling tools like Gliffy, Diagrams.Net (formerly DrawIO), ......, or DS
 //
 // https://docs.req42.de/section-xxx in the online documentation
 ****
+endif::req42help[]
 
 _<Diagram Title 1:>_. _<insert diagram and explanations here >_ _<optional: Link to Epics, Features or Stories>_ 
 

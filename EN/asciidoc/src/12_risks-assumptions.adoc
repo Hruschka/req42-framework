@@ -1,6 +1,7 @@
 [[section-risks-assumptions]]
 == Risks & Assumptions
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -21,9 +22,9 @@ Simple tables or lists are often already sufficient.
 // https://docs.req42.de/section-xxx in the online documentation
 
 ****
+endif::req42help[]
 
 === Risks
-
 
 [cols="1,3,1,1,3 " options="header"]
 |===

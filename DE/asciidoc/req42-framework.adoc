@@ -28,6 +28,7 @@ include::src/about-req42.adoc[]
 // horizontal line
 ***
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 [NOTE]
@@ -37,6 +38,7 @@ Sie dient der Einarbeitung in req42 sowie dem Verständnis der Konzepte.
 Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
 ====
 ****
+endif::req42help[]
 
 
 // numbering from here on

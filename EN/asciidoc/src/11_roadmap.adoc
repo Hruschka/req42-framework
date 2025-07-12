@@ -1,6 +1,7 @@
 [[section-roadmap]]
 == Roadmap
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -21,6 +22,7 @@ Whatever you have in use as a planning tool or which allows you to present, if p
 //
 // https://docs.req42.de/section-xxx in the online documentation.
 ****
+endif::req42help[]
 
 _< Insert your planning here>_
 
