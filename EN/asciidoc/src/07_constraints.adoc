@@ -1,6 +1,7 @@
 [[section-constraints]]
 == Constraints
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -17,6 +18,7 @@ Simple lists, possibly organized by category.
 // https://docs.req42.de/section-xxx in the online documentation
 
 ****
+endif::req42help[]
 
 === Organizational Constraints
 *  _<OrgConstraint1>_

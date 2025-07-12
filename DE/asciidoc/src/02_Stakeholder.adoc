@@ -1,6 +1,7 @@
 [[section-Stakeholder]]
 == Stakeholder
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -28,6 +29,7 @@ Sie können bei Bedarf auch gerne weitere Spalten hinzufügen (Kontaktdaten, …
 // Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
+endif::req42help[]
 
 [cols="10,12,20,20" options="header"]
 |===

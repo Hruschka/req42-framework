@@ -29,6 +29,7 @@ include::src/about-req42.adoc[]
 // horizontal line
 ***
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 [NOTE]
@@ -37,7 +38,7 @@ This version of the framework contains help texts and explanations. It is meant 
 For your own documentation better use the _plain_ Version.
 ====
 ****
-
+endif::req42help[]
 
 // numbering from here on
 :numbered:

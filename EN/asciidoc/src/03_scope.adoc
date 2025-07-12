@@ -1,6 +1,7 @@
 [[section-scope]]
 == Scope
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
@@ -24,6 +25,7 @@ There are many different means of expression for representing scope delineation,
 // https://docs.req42.de/section-xxx in the online documentation
 
 ****
+endif::req42help[]
 
 Insert <<Context diagram>> or <<Context table>> here.
 

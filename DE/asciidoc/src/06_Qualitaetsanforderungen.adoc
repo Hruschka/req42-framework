@@ -1,6 +1,7 @@
 [[section-Qualitaetsanforderungen]]
 == Qualitätsanforderungen
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -25,6 +26,7 @@ Einfache textuelle Szenarien, evtl. nach den Kapiteln des ISO 25010 Qualitätsba
 // Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch).
 
 ****
+endif::req42help[]
 
 _<Text Qualitätsanforderungen bzw. -Szenario 1>_ :
 _<Link auf funktionale Anforderungen bzw. Gültigkeitsbereich>_

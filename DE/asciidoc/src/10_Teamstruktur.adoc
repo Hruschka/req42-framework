@@ -1,6 +1,7 @@
 [[section-Teamstruktur]]
 == Teamstruktur
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -16,6 +17,7 @@ Der Fokus sollte darauf liegen, dass die (Teil-)Teams so organisiert sind, dass 
 Listen von Teams (jeweils mit zugewiesenen Personen und zugewiesenen Themen aus der Roadmap oder aus dem Product Backlog (z. B. Epics oder Features).
 
 ****
+endif::req42help[]
 
 [cols="1,2,2" options="header"]
 |===

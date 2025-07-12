@@ -1,6 +1,7 @@
 [[section-Product-Backlog]]
 == Product Backlog
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -30,7 +31,7 @@ Besonders bewährt hat sich eine zweidimensionale Darstellung des Product Backlo
 // 
 // Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 ****
-
+endif::req42help[]
 
 
 EPIC 1:  Als _<Rolle>_ möchte ich _<Funktionalität>_ damit _<Vorteil>_ _<optional. Link zu Modellen>_.

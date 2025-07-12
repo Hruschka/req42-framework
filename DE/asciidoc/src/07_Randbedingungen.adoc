@@ -1,6 +1,7 @@
 [[section-Randbedingungen]]
 == Randbedingungen
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -18,6 +19,7 @@ Einfache Listen, evtl. nach Kategorien geordnet.
 // Siehe https://docs.req42.de/section-xxx in der req42-Dokumentation (auf Englisch!).
 
 ****
+endif::req42help[]
 
 === Organisatorische Randbedingungen
 *   

@@ -1,6 +1,7 @@
 [[section-Scope-Abgrenzung]]
 == Scope-Abgrenzung
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -25,6 +26,7 @@ Zur Darstellung der Scope-Abgrenzung gibt es viele verschiedene Ausdrucksmittel,
 // Siehe https://docs.req42.de/section--xxx in der online-Dokumentation (auf Englisch!).
 
 ****
+endif::req42help[]
 
 _<Kontextdiagramm>_ oder _<Kontexttabelle>_ hier einfügen.
 

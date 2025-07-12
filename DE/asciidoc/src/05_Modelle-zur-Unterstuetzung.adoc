@@ -1,6 +1,7 @@
 [[section-Modelle-zur-Unterstuetzung]]
 == Modelle zur Unterstützung
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
@@ -31,6 +32,7 @@ Einfache Modellierungstools wie Gliffy, Diagrams.Net (früher DrawIO), ......, o
 // Siehe https://docs.req42.de/section-xxx in der online-Dokumentation (auf Englisch!).
 
 ****
+endif::req42help[]
 
 _<Diagrammtitel 1:>_. _<hier Diagramm und evtl. Erläuterungen einfügen>_ _<optional: Link zu Epics, Features oder Storys>_
 

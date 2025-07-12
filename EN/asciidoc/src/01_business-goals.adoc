@@ -1,6 +1,7 @@
 [[section-business-goals]]
 ==	Business Goals
 
+ifdef::req42help[]
 [role="req42help"]
 ****
 
@@ -34,6 +35,7 @@ There is only one thing you should never do: Work without explicit goals or visi
 // https://docs.req42.de/section-xxx in the online documentation
 
 ****
+endif::req42help[]
 
 Goal definitions according to PAM:
 
