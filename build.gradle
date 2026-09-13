@@ -15,6 +15,10 @@ def LANGUAGE = 'DE'
 // what version of the template are we building here
 version = "1.0.0-${LANGUAGE}-LOCAL-BUILD"
 
+// template version (revnumber, revdate, revremark), as passed by arc42-generator
+def versionProps = new Properties()
+file("${LANGUAGE}/version.properties").withReader('UTF-8') { versionProps.load(it) }
+
 repositories {
     mavenCentral()
 }
@@ -33,6 +37,8 @@ asciidoctor {
     ]    
     
     outputDir = file( "build/${LANGUAGE}" )
+
+    attributes versionProps
 
     resources {
         from("${LANGUAGE}") {
