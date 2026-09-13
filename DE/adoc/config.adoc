@@ -21,3 +21,6 @@
 
 // where are images located?
 :imagesdir: ./images
+
+// Hilfetexte anzeigen; arc42-generator entfernt sie für die plain-Version
+:req42help:
