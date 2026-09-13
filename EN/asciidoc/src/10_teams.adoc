@@ -28,10 +28,10 @@ endif::req42help[]
 |===
 |Team |Team Members |Feature  
 | _<Team-1>_ |PO: _<Person-1>_ | _<Feature-A>_ 
-|            | _<Team member-2>_|      
+|            | _<Team member-2>_| 
 |            | _<Team member-3>_| 
 |            |                  | 
-| _<Team-2>_ |PO_<Person-2>_ | _<Feature-B>_ 
+| _<Team-2>_ |PO: _<Person-2>_ | _<Feature-B>_ 
 |            | _<Team member-2>_| 
-|            |             |             |
+|            |             | 
 |===
