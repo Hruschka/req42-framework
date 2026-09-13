@@ -1,5 +1,5 @@
 // this is a local build file, used for debugging purposes only!
-// YOU CANNOT CREATE DISTRIBUTIONS WITH IT
+// YOU CANNOT CREATE DISTRIBUTIONS WITH IT (they are built with arc42-generator, see README)
 //
 
 plugins {
@@ -24,18 +24,18 @@ asciidoctor {
     baseDir file('./')
     baseDirFollowsSourceDir()
 
-    sourceDir file("${LANGUAGE}/asciidoc")
+    sourceDir file("${LANGUAGE}")
     sources{ include 'req42-framework.adoc' }
    
     options = [
-        includedir: "./${LANGUAGE}/asciidoc/",
-        imagesdir: '../images'
+        includedir: "./${LANGUAGE}/",
+        imagesdir: 'images'
     ]    
     
     outputDir = file( "build/${LANGUAGE}" )
 
     resources {
-        from('./') {
+        from("${LANGUAGE}") {
             include 'images/**'
         }
     }
