@@ -1,5 +1,5 @@
 // this is a local build file, used for debugging purposes only!
-// YOU CANNOT CREATE DISTRIBUTIONS WITH IT
+// YOU CANNOT CREATE DISTRIBUTIONS WITH IT (they are built with arc42-generator, see README)
 //
 
 plugins {
@@ -15,6 +15,10 @@ def LANGUAGE = 'DE'
 // what version of the template are we building here
 version = "1.0.0-${LANGUAGE}-LOCAL-BUILD"
 
+// template version (revnumber, revdate, revremark), as passed by arc42-generator
+def versionProps = new Properties()
+file("${LANGUAGE}/version.properties").withReader('UTF-8') { versionProps.load(it) }
+
 repositories {
     mavenCentral()
 }
@@ -24,18 +28,20 @@ asciidoctor {
     baseDir file('./')
     baseDirFollowsSourceDir()
 
-    sourceDir file("${LANGUAGE}/asciidoc")
+    sourceDir file("${LANGUAGE}")
     sources{ include 'req42-framework.adoc' }
    
     options = [
-        includedir: "./${LANGUAGE}/asciidoc/",
-        imagesdir: '../images'
+        includedir: "./${LANGUAGE}/",
+        imagesdir: 'images'
     ]    
     
     outputDir = file( "build/${LANGUAGE}" )
 
+    attributes versionProps
+
     resources {
-        from('./') {
+        from("${LANGUAGE}") {
             include 'images/**'
         }
     }

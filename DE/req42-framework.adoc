@@ -4,7 +4,7 @@
 // ====================================
 
 // configure DE settings for asciidoc
-include::src/config.adoc[]
+include::adoc/config.adoc[]
 
 = image:REQ42-logo.png[req42] Framework
 
@@ -23,7 +23,7 @@ ifdef::backend-html5[]
 ++++
 endif::backend-html5[]
 
-include::src/about-req42.adoc[]
+include::adoc/about-req42.adoc[]
 
 // horizontal line
 ***
@@ -45,37 +45,37 @@ endif::req42help[]
 :numbered:
 
 <<<<
-include::src/01_Visionen-Ziele.adoc[]
+include::adoc/01_Visionen-Ziele.adoc[]
 
 <<<<
-include::src/02_Stakeholder.adoc[]
+include::adoc/02_Stakeholder.adoc[]
 
 <<<<
-include::src/03_Scope-Abgrenzung.adoc[]
+include::adoc/03_Scope-Abgrenzung.adoc[]
 
 <<<<
-include::src/04_Product-Backlog.adoc[]
+include::adoc/04_Product-Backlog.adoc[]
 
 <<<<
-include::src/05_Modelle-zur-Unterstuetzung.adoc[]
+include::adoc/05_Modelle-zur-Unterstuetzung.adoc[]
 
 <<<<
-include::src/06_Qualitaetsanforderungen.adoc[]
+include::adoc/06_Qualitaetsanforderungen.adoc[]
 
 <<<<
-include::src/07_Randbedingungen.adoc[]
+include::adoc/07_Randbedingungen.adoc[]
 
 <<<<
-include::src/08_Domaenenbegriffe.adoc[]
+include::adoc/08_Domaenenbegriffe.adoc[]
 
 <<<<
-include::src/09_Betriebsmittel-und-Personal.adoc[]
+include::adoc/09_Betriebsmittel-und-Personal.adoc[]
 
 <<<<
-include::src/10_Teamstruktur.adoc[]
+include::adoc/10_Teamstruktur.adoc[]
 
 <<<<
-include::src/11_Roadmaps.adoc[]
+include::adoc/11_Roadmaps.adoc[]
 
 <<<<
-include::src/12_Risiken-und-Annahmen.adoc[]
+include::adoc/12_Risiken-und-Annahmen.adoc[]
