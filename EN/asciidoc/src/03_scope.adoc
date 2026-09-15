@@ -27,7 +27,7 @@ There are many different means of expression for representing scope delineation,
 ****
 endif::req42help[]
 
-Insert <<Context diagram>> or <<Context table>> here.
+Insert _<Context diagram>_ or _<Context table>_ here.
 
 Optional: add table with explanations of interfaces:
 
