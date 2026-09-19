@@ -57,6 +57,16 @@ docker compose run --rm -v /path/to/req42-framework:/project arc42-builder \
 The ZIPs are written to `dist/` of this repository.
 Review and commit them - https://req42.de/download links to them directly.
 
+=== Releasing a New Version
+
+. Raise the version in *both* languages, and in *two places* per language:
+** `EN/version.properties` and `DE/version.properties` (`revnumber`, `revdate`, `revremark`) - used by arc42-generator and the local Gradle build.
+** The fallback values at the end of `EN/adoc/config.adoc` and `DE/adoc/config.adoc` - used when the sources are rendered without `version.properties`, e.g. from the asciidoc download or by docToolchain.
++
+If only `version.properties` is changed, the asciidoc download silently keeps showing the old version.
+. Regenerate the distributions as described above and commit `dist/`.
+. After merging, tag the release (e.g. `v2.0.1`) and create a GitHub release with release notes.
+
 == Questions on using req42?
 
 * see the extensive https://docs.req42.de [documentation website, currently under construction]
