@@ -1,4 +1,4 @@
-= image:./small-req42-logo.png[req42] Framework ("Golden Master")
+= image:./EN/images/REQ42-logo.png[req42] Framework ("Golden Master")
 :version 1.1:
 :downloads https://req42.de/downloads/:
 
