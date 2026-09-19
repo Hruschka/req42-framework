@@ -8,3 +8,10 @@
 
 // show help texts; arc42-generator removes them for the plain edition
 :req42help:
+
+// template version, used when the sources are rendered without
+// version.properties (e.g. the asciidoc download or docToolchain).
+// Must match EN/version.properties!
+ifndef::revnumber[:revnumber: 2.0.1-EN]
+ifndef::revdate[:revdate: September 2026]
+ifndef::revremark[:revremark: (based on asciidoc)]
