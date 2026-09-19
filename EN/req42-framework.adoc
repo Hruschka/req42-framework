@@ -4,7 +4,7 @@
 // ====================================
 
 // configure EN settings for asciidoc
-include::src/config.adoc[]
+include::adoc/config.adoc[]
 
 = image:REQ42-logo.png[req42] Framework
 
@@ -24,7 +24,7 @@ ifdef::backend-html5[]
 endif::backend-html5[]
 
 
-include::src/about-req42.adoc[]
+include::adoc/about-req42.adoc[]
 
 // horizontal line
 ***
@@ -44,37 +44,37 @@ endif::req42help[]
 :numbered:
 
 <<<<
-include::src/01_business-goals.adoc[]
+include::adoc/01_business-goals.adoc[]
 
 <<<<
-include::src/02_stakeholder.adoc[]
+include::adoc/02_stakeholder.adoc[]
 
 <<<<
-include::src/03_scope.adoc[]
+include::adoc/03_scope.adoc[]
 
 <<<<
-include::src/04_product-backlog.adoc[]
+include::adoc/04_product-backlog.adoc[]
 
 <<<<
-include::src/05_supporting-models.adoc[]
+include::adoc/05_supporting-models.adoc[]
 
 <<<<
-include::src/06_quality-requirements.adoc[]
+include::adoc/06_quality-requirements.adoc[]
 
 <<<<
-include::src/07_constraints.adoc[]
+include::adoc/07_constraints.adoc[]
 
 <<<<
-include::src/08_domain-terminology.adoc[]
+include::adoc/08_domain-terminology.adoc[]
 
 <<<<
-include::src/09_assets.adoc[]
+include::adoc/09_assets.adoc[]
 
 <<<<
-include::src/10_teams.adoc[]
+include::adoc/10_teams.adoc[]
 
 <<<<
-include::src/11_roadmap.adoc[]
+include::adoc/11_roadmap.adoc[]
 
 <<<<
-include::src/12_risks-assumptions.adoc[]
+include::adoc/12_risks-assumptions.adoc[]
