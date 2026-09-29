@@ -1,0 +1,639 @@
+{
+    "project": "req42-framework",
+    "templateCommit": "9b05347dd04ea19ab165bdfa6eb095228e830655",
+    "templateDate": "2026-09-29",
+    "languages": [
+        {
+            "code": "DE",
+            "name": "DE",
+            "version": "2.0.2",
+            "date": "September 2026"
+        },
+        {
+            "code": "EN",
+            "name": "EN",
+            "version": "2.0.2",
+            "date": "September 2026"
+        }
+    ],
+    "styles": [
+        "plain",
+        "withhelp"
+    ],
+    "formats": [
+        {
+            "id": "asciidoc",
+            "label": "asciidoc"
+        },
+        {
+            "id": "html",
+            "label": "html"
+        },
+        {
+            "id": "epub",
+            "label": "epub"
+        },
+        {
+            "id": "rst",
+            "label": "rst"
+        },
+        {
+            "id": "markdown",
+            "label": "markdown"
+        },
+        {
+            "id": "markdownMP",
+            "label": "markdownMP"
+        },
+        {
+            "id": "markdownStrict",
+            "label": "markdownStrict"
+        },
+        {
+            "id": "markdownMPStrict",
+            "label": "markdownMPStrict"
+        },
+        {
+            "id": "gitHubMarkdown",
+            "label": "gitHubMarkdown"
+        },
+        {
+            "id": "gitHubMarkdownMP",
+            "label": "gitHubMarkdownMP"
+        },
+        {
+            "id": "mkdocs",
+            "label": "mkdocs"
+        },
+        {
+            "id": "mkdocsMP",
+            "label": "mkdocsMP"
+        },
+        {
+            "id": "textile",
+            "label": "textile"
+        },
+        {
+            "id": "textile2",
+            "label": "textile2"
+        },
+        {
+            "id": "docx",
+            "label": "docx"
+        },
+        {
+            "id": "docbook",
+            "label": "docbook"
+        },
+        {
+            "id": "latex",
+            "label": "latex"
+        }
+    ],
+    "files": [
+        {
+            "name": "req42-framework-DE-plain-asciidoc.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "asciidoc",
+            "size": 15550,
+            "sha256": "1377c0387ae93b8d41585a42374130c70c6074c57bbd7a545b7d3ed0927bf752"
+        },
+        {
+            "name": "req42-framework-DE-plain-docbook.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "docbook",
+            "size": 12368,
+            "sha256": "b09cd42e4139e9c2cf3db931fd932cca357d9cb985356316c9f9e7ccf6ffce30"
+        },
+        {
+            "name": "req42-framework-DE-plain-docx.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "docx",
+            "size": 32554,
+            "sha256": "4bf5971869fd24fe076b0bee7c37c34e2b4ef3dc756186a26b1b3b7d2647bc74"
+        },
+        {
+            "name": "req42-framework-DE-plain-epub.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "epub",
+            "size": 21949,
+            "sha256": "6e441af49ee42397110bca9a2a9b4211e2cd7ee292046421c268fd96157bc4af"
+        },
+        {
+            "name": "req42-framework-DE-plain-gitHubMarkdown.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "gitHubMarkdown",
+            "size": 11544,
+            "sha256": "2a2e2e8b9d894a216cee08cbc13a4b76d86a639379dcd8097781389c9e8f71ce"
+        },
+        {
+            "name": "req42-framework-DE-plain-gitHubMarkdownMP.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "gitHubMarkdownMP",
+            "size": 13632,
+            "sha256": "6b869fa4ea425c80ee56f7f14066b0b7bb6c824eb2c6b04462b32a74125cb99a"
+        },
+        {
+            "name": "req42-framework-DE-plain-html.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "html",
+            "size": 19995,
+            "sha256": "cea2fd91da57fc8a65d5f37eb82618597a33017d89658ef9152993fe846d0c9d"
+        },
+        {
+            "name": "req42-framework-DE-plain-latex.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "latex",
+            "size": 13166,
+            "sha256": "6148cda7d07de086921cf190c78b3d51981d7bf73b9d7fefe9b63b437bbcf07e"
+        },
+        {
+            "name": "req42-framework-DE-plain-markdown.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "markdown",
+            "size": 11803,
+            "sha256": "570b0903faee637b065c2a732766c3b0df59fcc3bf993dd4ecbd5bc62eb7e95d"
+        },
+        {
+            "name": "req42-framework-DE-plain-markdownMP.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "markdownMP",
+            "size": 13977,
+            "sha256": "e2a3599b29d83e1a7babf6dc09e548edb9a2c8125ea50537c54d8690039b3369"
+        },
+        {
+            "name": "req42-framework-DE-plain-markdownMPStrict.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "markdownMPStrict",
+            "size": 14207,
+            "sha256": "38e8855d6a390cf1bc505e712d2d64e73d8d41b1da3ce2b0fb9584354f7c5f58"
+        },
+        {
+            "name": "req42-framework-DE-plain-markdownStrict.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "markdownStrict",
+            "size": 11686,
+            "sha256": "5252e91aaa3506932782bf62fe34495d55029e01c04b3563bec631b2dff4c4ab"
+        },
+        {
+            "name": "req42-framework-DE-plain-mkdocs.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "mkdocs",
+            "size": 11813,
+            "sha256": "f65ef747caba1b10aa256455291b3971e59704c17c2756552abeebdbe8817857"
+        },
+        {
+            "name": "req42-framework-DE-plain-mkdocsMP.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "mkdocsMP",
+            "size": 13595,
+            "sha256": "c5d902d74169e7ceb8b5f29c1857065d64d0eca07ccec8ffbbed1983418e0243"
+        },
+        {
+            "name": "req42-framework-DE-plain-rst.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "rst",
+            "size": 11874,
+            "sha256": "600f99bb44f0ae94117381d69b80fd4d4575ec3d37b4e093bde22f178a4d18aa"
+        },
+        {
+            "name": "req42-framework-DE-plain-textile.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "textile",
+            "size": 11772,
+            "sha256": "ef9b063b60a8869d9cdbf502decc40ba6529f51cbda582bc0dd69746db0f3f13"
+        },
+        {
+            "name": "req42-framework-DE-plain-textile2.zip",
+            "language": "DE",
+            "style": "plain",
+            "format": "textile2",
+            "size": 11772,
+            "sha256": "ef9b063b60a8869d9cdbf502decc40ba6529f51cbda582bc0dd69746db0f3f13"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-asciidoc.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "asciidoc",
+            "size": 201195,
+            "sha256": "1d01f26043d1389341772883237cae2848353e61d30f2f704845478f9b26cc78"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-docbook.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "docbook",
+            "size": 195392,
+            "sha256": "12190e23646b8f439247157dbc0bf13458625b53546844ccbf5a22c369121cc2"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-docx.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "docx",
+            "size": 216188,
+            "sha256": "65ab402cc6079a8bba342e0c8375b51a240f6768d00c5ffbe6cb7bd54755cf06"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-epub.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "epub",
+            "size": 29818,
+            "sha256": "80cb066ff30874549509e5f92404e01ec0b2951092dae3364a8323273806c9ef"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-gitHubMarkdown.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "gitHubMarkdown",
+            "size": 194475,
+            "sha256": "0ef7e5dd15a0a3b33244bf0d74bce1e1d70d6b2fbef76dc05e49f6a2afae3a01"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-gitHubMarkdownMP.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "gitHubMarkdownMP",
+            "size": 198576,
+            "sha256": "06a08198a5d3960c93d69de610de47140438e87e8dfc180117ddfd0db2df0cac"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-html.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "html",
+            "size": 203066,
+            "sha256": "0a3823e2fa282aa7febf90cbb555371eb84d771208394004b9cb78fd92b7a561"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-latex.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "latex",
+            "size": 196073,
+            "sha256": "9f7b743cc4ab3ec23bd19c676679ae7b0afd26312666184fc52480cb17da3c3a"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-markdown.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "markdown",
+            "size": 194739,
+            "sha256": "ba2fa6e8486f9a00f3d2543c6f24f3bb9d48891c907ccd4b5e2c2076dbf957e9"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-markdownMP.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "markdownMP",
+            "size": 198782,
+            "sha256": "f10213378f02e0516c818c41b8c9fbfd0309d1d95096fd98c19d4ad5f49f931f"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-markdownMPStrict.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "markdownMPStrict",
+            "size": 198499,
+            "sha256": "dc013d7f246cd51e5a314007f7f49667d0a3631e8bfe575d9772bea91a597741"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-markdownStrict.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "markdownStrict",
+            "size": 194489,
+            "sha256": "1233544cdba421f364dbbca46a247f1ceee476fbb09b8fdc114e6ec2452d4eec"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-mkdocs.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "mkdocs",
+            "size": 194759,
+            "sha256": "19861b8f3088c089ef7c3be246967b05a80aa1872084327a455c32dc37c6e70c"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-mkdocsMP.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "mkdocsMP",
+            "size": 198410,
+            "sha256": "fc5cc5d0445e34612f41f146def14662469a1736351e30efec7922942a606be5"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-rst.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "rst",
+            "size": 194874,
+            "sha256": "e95f913c712f44aa91a9cfe72db7e9ed23f23b9261500e5e3553d7702c4bde13"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-textile.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "textile",
+            "size": 194628,
+            "sha256": "ab1d984200c329a3c9a29df31780ca8d2ebb62645d90e5cae9083bfdf7aba6e5"
+        },
+        {
+            "name": "req42-framework-DE-withhelp-textile2.zip",
+            "language": "DE",
+            "style": "withhelp",
+            "format": "textile2",
+            "size": 194628,
+            "sha256": "ab1d984200c329a3c9a29df31780ca8d2ebb62645d90e5cae9083bfdf7aba6e5"
+        },
+        {
+            "name": "req42-framework-EN-plain-asciidoc.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "asciidoc",
+            "size": 14978,
+            "sha256": "a50b54d833390d4ab21a5cff48259f5b7cfc39d9ccb2e97026e69c3f9d40ea2c"
+        },
+        {
+            "name": "req42-framework-EN-plain-docbook.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "docbook",
+            "size": 12288,
+            "sha256": "ff2eb42085c833cb3812a5febde3d2dd2fd74dbbed6d84552bacd98010aad823"
+        },
+        {
+            "name": "req42-framework-EN-plain-docx.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "docx",
+            "size": 32715,
+            "sha256": "a98a938606602ffab365f456dcae5aea2d2289e9e8c69d3d799470a9fcd7116e"
+        },
+        {
+            "name": "req42-framework-EN-plain-epub.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "epub",
+            "size": 21701,
+            "sha256": "1284bf871f1d1931fac1abfe8d4df2f9243211b78ce3096dc472ad088a9aab9d"
+        },
+        {
+            "name": "req42-framework-EN-plain-gitHubMarkdown.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "gitHubMarkdown",
+            "size": 11474,
+            "sha256": "197cfb33a8e24750f9de248102ee793229777d3e20ab5c7988d5c810b723dfa2"
+        },
+        {
+            "name": "req42-framework-EN-plain-gitHubMarkdownMP.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "gitHubMarkdownMP",
+            "size": 13390,
+            "sha256": "616b8856e9156079120d3afeb417bd428dab2e5b4e3f319460ef2791a86f7371"
+        },
+        {
+            "name": "req42-framework-EN-plain-html.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "html",
+            "size": 19881,
+            "sha256": "0bf375844d76fc8fe8dfb47e007886d812331e7fefb8183115563192eedba340"
+        },
+        {
+            "name": "req42-framework-EN-plain-latex.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "latex",
+            "size": 13077,
+            "sha256": "1c33792a7a904ccf3f5c3540b57ee050b2a717d1768279092777423d29cd73ae"
+        },
+        {
+            "name": "req42-framework-EN-plain-markdown.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "markdown",
+            "size": 11744,
+            "sha256": "3a4e2c92d7102cc6fc0f98a1bce692de15f82a328cafc792f85071b0cc01ba3b"
+        },
+        {
+            "name": "req42-framework-EN-plain-markdownMP.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "markdownMP",
+            "size": 13723,
+            "sha256": "6db26b00d7e018236052cc8b642ab3a34ef530b5ba737e25ca9869acd39bb411"
+        },
+        {
+            "name": "req42-framework-EN-plain-markdownMPStrict.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "markdownMPStrict",
+            "size": 13931,
+            "sha256": "1152bda8730602afd8601ff0c1290245e27a32c3e5aac2b851798e0b80511488"
+        },
+        {
+            "name": "req42-framework-EN-plain-markdownStrict.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "markdownStrict",
+            "size": 11577,
+            "sha256": "21ff368eb680d09c3266c9b65eb2f10cfe43dd03ed96adb968e3f1d1b0e1fd78"
+        },
+        {
+            "name": "req42-framework-EN-plain-mkdocs.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "mkdocs",
+            "size": 11754,
+            "sha256": "6a3bf9a831c4fe36e8b22c05e886d27d4fd070152a2d0e499e0a52a16862e478"
+        },
+        {
+            "name": "req42-framework-EN-plain-mkdocsMP.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "mkdocsMP",
+            "size": 13362,
+            "sha256": "0068155f15c21d51558d08f7a93da64c40c933cbed14f56cfca329a73692e23b"
+        },
+        {
+            "name": "req42-framework-EN-plain-rst.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "rst",
+            "size": 11826,
+            "sha256": "229e58e2759915e3149f30b9590a2fb7b3d44ac097a710f98121caf848f4a744"
+        },
+        {
+            "name": "req42-framework-EN-plain-textile.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "textile",
+            "size": 11678,
+            "sha256": "1ce073e6e5e718372b2e3abde9cdc1029a8b50ce0c2b2628165ff5374fa8d2eb"
+        },
+        {
+            "name": "req42-framework-EN-plain-textile2.zip",
+            "language": "EN",
+            "style": "plain",
+            "format": "textile2",
+            "size": 11678,
+            "sha256": "1ce073e6e5e718372b2e3abde9cdc1029a8b50ce0c2b2628165ff5374fa8d2eb"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-asciidoc.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "asciidoc",
+            "size": 196205,
+            "sha256": "3abb733d73ef31e72866902441a2421111b1dadc73b2201183b84c346a90a6cb"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-docbook.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "docbook",
+            "size": 191482,
+            "sha256": "671bd70842c646f56ab75fcddb748aa1a984638fdb5e0ab85b0421bb2b43a737"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-docx.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "docx",
+            "size": 212312,
+            "sha256": "df10b92cd6ae18dde356ae09d1b99ced1bb56f498b25bb5345567987ffac86fe"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-epub.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "epub",
+            "size": 28633,
+            "sha256": "a8f49688612fedb3844fee3f4ec457b458f928f55a522c1c6ff13f90b1445f8b"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-gitHubMarkdown.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "gitHubMarkdown",
+            "size": 190625,
+            "sha256": "bf44063a2d669211b6047490c7e0449fbec4c7ceb776ec2b751b37de880cc083"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-gitHubMarkdownMP.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "gitHubMarkdownMP",
+            "size": 194244,
+            "sha256": "7b9dd475441664d17775fd794367df445794eef9052488354150ed10193a5295"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-html.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "html",
+            "size": 199115,
+            "sha256": "66fe47619139e006ec568503a8396bb490da1ad9de8c19a76f137ee97c1ee985"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-latex.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "latex",
+            "size": 192134,
+            "sha256": "aabbe13bddd3afd1c20dedfab0975785823612c6bed8ed0df6dbeeb5ac3834a8"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-markdown.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "markdown",
+            "size": 190898,
+            "sha256": "484a3d68a0dbfc1123aec0810ac694e198deb6fdc5f04713faa53c599e87978f"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-markdownMP.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "markdownMP",
+            "size": 194444,
+            "sha256": "d8331ef9e2741d42e310e92eb28a0d5e2a36bc7eaa6cc0411a509225bbb95838"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-markdownMPStrict.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "markdownMPStrict",
+            "size": 194145,
+            "sha256": "93939094122099ea41c702340e8e9bcc1f5ec4601f79c75cef993f721f2d8d3f"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-markdownStrict.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "markdownStrict",
+            "size": 190583,
+            "sha256": "e8fa73390f23a87fba5f63735f917391c8bdd1a53dbbd5737144263397c9e6ea"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-mkdocs.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "mkdocs",
+            "size": 190918,
+            "sha256": "2b59aece3a337759e5ba8d0bc16a034ab74c23c41d28c9e3b13d0ac1755b027f"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-mkdocsMP.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "mkdocsMP",
+            "size": 194093,
+            "sha256": "491dfb24c6d121e4e8ca6a8859dd40b288ee62992e26a61307b81aa92f094855"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-rst.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "rst",
+            "size": 190981,
+            "sha256": "5723bcd25c3cca24e4a68311fd45248cd8cf3fd4ccf347cfd3c58a2591e00455"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-textile.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "textile",
+            "size": 190728,
+            "sha256": "1fa58ca9cf2e398e271b634f6fd74adf246570f65aa310f4a5d9184fa2f91f97"
+        },
+        {
+            "name": "req42-framework-EN-withhelp-textile2.zip",
+            "language": "EN",
+            "style": "withhelp",
+            "format": "textile2",
+            "size": 190728,
+            "sha256": "1fa58ca9cf2e398e271b634f6fd74adf246570f65aa310f4a5d9184fa2f91f97"
+        }
+    ]
+}
