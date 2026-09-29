@@ -28,6 +28,6 @@
 // Template-Version, falls die Quellen ohne version.properties gerendert
 // werden (z. B. der asciidoc-Download oder docToolchain).
 // Muss mit DE/version.properties übereinstimmen!
-ifndef::revnumber[:revnumber: 2.0.1-DE]
+ifndef::revnumber[:revnumber: 2.0.2-DE]
 ifndef::revdate[:revdate: September 2026]
 ifndef::revremark[:revremark: (asciidoc-based)]
