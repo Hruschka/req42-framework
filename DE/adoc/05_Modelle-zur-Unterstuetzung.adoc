@@ -5,7 +5,7 @@ ifdef::req42help[]
 [role="req42help"]
 ****
 .Inhalt
-Jegliche Art von grafischen Modellen, die das Verständnis (von Zusammenhängen) von Backlog Items erleichtern. Die Diagramme sollten mit Items aus dem Product Backlog verlinkt sein.
+Modelle jeglicher Art – meist grafisch dargestellt, z. B. als Diagramme, Skizzen oder Wireframes –, die das Verständnis von Backlog Items und ihren Zusammenhängen erleichtern. Diese Darstellungen sollten mit Items aus dem Product Backlog verlinkt sein.
 
 .Motivation
 In der agilen Welt hat es sich weit verbreitet, Anforderungen in Form von Epics, Features oder User Storys auf Kärtchen zu schreiben oder in äquivalenter Form in Tools abzulegen.
@@ -14,7 +14,7 @@ Trotzdem wird die Kommunikation unter allen Beteiligten manchmal erheblich einfa
 
 Keine Angst: diese Modelle müssen nicht perfekt sein. Aber insbesondere mit anwachsender Komplexität (Schleifen oder Fallunterscheidungen) fördert eine grafische Visualisierung der Schritte eines Geschäftsprozesses das Verständnis besser als viele Tickets im System ohne erkennbare Abfolgen und Abhängigkeiten.
 
-.Notationen/Tools
+.Beispiele für Modelle und Darstellungsformen
 
 * Flussdiagramme
 * Aktivitätsdiagramme
