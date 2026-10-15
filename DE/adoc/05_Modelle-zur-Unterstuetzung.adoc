@@ -12,20 +12,20 @@ In der agilen Welt hat es sich weit verbreitet, Anforderungen in Form von Epics,
 
 Trotzdem wird die Kommunikation unter allen Beteiligten manchmal erheblich einfacher, wenn man zusätzlich auch die Hilfsmittel verwendet, die wir in den letzten Jahrzehnten zur Präzisierung der Umgangssprache kennengelernt haben. Scheuen Sie also nicht davor zurück Modelle zu verwenden, wenn sie die Kommunikation fördern.
 
-Keine Angst: diese Modelle müssen nicht perfekt sein. Aber insbesondere mit anwachsender Komplexität (Schleifen oder Fallunterscheidungen) fördert eine grafische Visualisierung der Schritte eines Geschäftsprozesses das Verständnis besser als viele Tickets im System ohne erkennbare Abfolgen und Abhängigkeiten.
+Keine Angst: diese Modelle müssen nicht perfekt sein. Aber insbesondere mit anwachsender Komplexität (Schleifen oder Fallunterscheidungen) fördert eine grafische Darstellung der Schritte eines Geschäftsprozesses das Verständnis besser als viele Tickets im System ohne erkennbare Abfolgen und Abhängigkeiten.
 
-.Beispiele für Modelle und Darstellungsformen
+.Notationen/Tools
 
 * Flussdiagramme
 * Aktivitätsdiagramme
 * BPMN
-* Zustandsmodelle
-* Datenmodelle
+* Zustandsdiagramme
+* Datenmodelle (z. B. als ER- oder Klassendiagramm)
 * UI-Prototypen
 * Mock-ups
 * Wireframes
 
-Einfache Modellierungstools wie Gliffy, Diagrams.Net (früher DrawIO), ......, oder DSLs wie PlantUML, Kroki, ... oder UML-Modellierungstools wie Enterprise Architect, Visual Paradigm, MagicDraw eignen sich zum Erstellen der Modelle. Die Modelle sollten mit Ihren Backlog-Items verlinkt sein (in beide Richtungen)
+Zum Erstellen eignen sich z. B. einfache Zeichenwerkzeuge wie Gliffy oder Diagrams.net (früher draw.io), textbasierte Diagrammsprachen wie PlantUML (etwa gerendert über Kroki) oder UML-Modellierungswerkzeuge wie Enterprise Architect, Visual Paradigm oder MagicDraw. Die Darstellungen sollten mit Ihren Backlog Items verlinkt sein (in beide Richtungen).
 
 // .Weiterführende Informationen
 // 
