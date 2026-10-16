@@ -5,26 +5,26 @@ ifdef::req42help[]
 [role="req42help"]
 ****
 .Content
-Any kind of graphical models that facilitate the understanding (of relationships) of Backlog Items. The diagrams should be linked to items from the Product Backlog.
+Any kind of model – usually represented graphically, e.g. as diagrams, sketches or wireframes – that helps to understand backlog items and how they relate to each other. These representations should be linked to items in the Product Backlog.
 
 .Motivation
 In the agile world, it has become widespread to write requirements in the form of epics, features or user stories on little cards or to file them in equivalent form in tools.
 
 Nevertheless, communication among all stakeholders sometimes becomes much easier if you also use the tools we have come to know over the last decades to make the colloquial language more precise. So don't be afraid to use models if they help communication.
 
-Don't worry: these models don't have to be perfect. But especially with increasing complexity (loops or case distinctions), a graphical visualization of the steps of a business process promotes understanding better than many tickets in the system without recognizable sequences and dependencies.
+Don't worry: these models don't have to be perfect. But especially with increasing complexity (loops or case distinctions), a graphical representation of the steps of a business process promotes understanding better than many tickets in the system without recognizable sequences and dependencies.
 
 .Notations/Tools
 * Flowcharts
 * activity diagrams
 * BPMN
-* state models
-* data models
+* state diagrams
+* data models (e.g. as ER or class diagrams)
 * UI prototypes
 * mock-ups
 * wireframes
 
-Simple modeling tools like Gliffy, Diagrams.Net (formerly DrawIO), ......, or DSLs like PlantUML, Kroki, ... or UML modeling tools like Enterprise Architect, Visual Paradigm, MagicDraw are suitable for creating the models. The models should be linked to your backlog items (in both directions)
+Suitable tools include simple drawing tools like Gliffy or Diagrams.net (formerly draw.io), text-based diagram languages like PlantUML (e.g. rendered via Kroki), or UML modeling tools like Enterprise Architect, Visual Paradigm or MagicDraw. The representations should be linked to your backlog items (in both directions).
 
 // .More Information
 //
